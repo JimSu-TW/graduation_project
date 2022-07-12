@@ -1,7 +1,7 @@
 import datetime
 
 class Post:
-    def __init__(self, source, title, link, date, content):
+    def __init__(self, source, title, link, date, content, product):
         self.setSource(source)
         self.setTitle(title)
         self.setLink(link)
@@ -49,3 +49,11 @@ class Post:
     @content.setter
     def setContent(self, value):
         self._content = value
+
+    @property
+    def product(self):
+        return self._product
+    
+    @product.setter
+    def setProduct(self, value):
+        self._product = value
