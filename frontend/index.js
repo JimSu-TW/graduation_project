@@ -1,21 +1,22 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import NavbarMenu from "./components/Navbar"; //載入component
 import reportWebVitals from './reportWebVitals';
-import Test from "./test.jpg";
+import banner from "./images/banner.jpg";
+import './layer1.css';
+import Layout from './layer1';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <img src={require("./test.jpg")} alt="Test"/>
-    
-    <div className="App">
-      <header className="rank-header">
-        <h2>熱門手機</h2>
-      </header>
-    </div>,
-  </React.StrictMode>
+    <React.StrictMode>
+        <NavbarMenu/>  
+        <img src={banner} alt="banner" className='img_banner'></img>
+        <div >
+            <Layout/>
+        </div>
+    </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
