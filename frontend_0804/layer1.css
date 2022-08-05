@@ -1,0 +1,59 @@
+.App {
+    text-align: center;
+}
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+.img_banner{
+    max-width: 100%;
+    height: auto;
+    padding-top: 0%;
+}
+.rank-header{
+    position: relative;
+    display: inline-block;
+    letter-spacing: 1px;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bolder;
+}
+.px-5 {
+    padding-right: 3rem !important;
+}
+.px-2 {
+    padding-right: 0.5rem !important;
+}
+.text-center{
+    text-align: center
+}
+.mb-4,
+.my-4 {
+    margin-bottom: 1.5rem !important;
+}
+.container,
+.container-fluid,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl {
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    adding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.pt-5,
+.py-5 {
+    padding-top: 3rem !important;
+}
