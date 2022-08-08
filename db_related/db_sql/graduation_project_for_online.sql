@@ -81,7 +81,6 @@ CREATE TABLE IF NOT EXISTS `db_108403547`.`tbl_product` (
   `brand_id` INT UNSIGNED NOT NULL,
   `product_class_id` INT UNSIGNED NOT NULL,
   `name` VARCHAR(45) NOT NULL,
-  `release_date` DATETIME NOT NULL,
   `specification` VARCHAR(1000) NULL,
   `create_date` DATETIME NOT NULL,
   `modified_date` DATETIME NOT NULL,

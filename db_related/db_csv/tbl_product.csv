@@ -1,0 +1,1172 @@
+id,icon_id,brand_id,product_class_id,name,specification,create_date,modified_date
+1,1,1,3,iPhone SE 3,../spec_data/apple/iPhone SE 3.csv,20220808,20220808
+2,2,1,3,iPhone 13 mini,../spec_data/apple/iPhone 13 mini.csv,20220808,20220808
+3,3,1,3,iPhone 13,../spec_data/apple/iPhone 13.csv,20220808,20220808
+4,4,1,3,iPhone 13 Pro,../spec_data/apple/iPhone 13 Pro.csv,20220808,20220808
+5,5,1,3,iPhone 13 Pro Max,../spec_data/apple/iPhone 13 Pro Max.csv,20220808,20220808
+6,6,1,3,iPhone 12 mini,../spec_data/apple/iPhone 12 mini.csv,20220808,20220808
+7,7,1,3,iPhone 12 Pro Max,../spec_data/apple/iPhone 12 Pro Max.csv,20220808,20220808
+8,8,1,3,iPhone 12,../spec_data/apple/iPhone 12.csv,20220808,20220808
+9,9,1,3,iPhone 12 Pro,../spec_data/apple/iPhone 12 Pro.csv,20220808,20220808
+10,10,1,3,iPhone SE 2,../spec_data/apple/iPhone SE 2.csv,20220808,20220808
+11,11,1,3,Apple iPhone 11,../spec_data/apple/Apple iPhone 11.csv,20220808,20220808
+12,12,1,3,Apple iPhone 11 Pro,../spec_data/apple/Apple iPhone 11 Pro.csv,20220808,20220808
+13,13,1,3,Apple iPhone 11 Pro Max,../spec_data/apple/Apple iPhone 11 Pro Max.csv,20220808,20220808
+14,14,1,3,Apple iPhone XS,../spec_data/apple/Apple iPhone XS.csv,20220808,20220808
+15,15,1,3,Apple iPhone XS Max,../spec_data/apple/Apple iPhone XS Max.csv,20220808,20220808
+16,16,1,3,Apple iPhone XR,../spec_data/apple/Apple iPhone XR.csv,20220808,20220808
+17,17,1,3,Apple iPhone X,../spec_data/apple/Apple iPhone X.csv,20220808,20220808
+18,18,1,3,Apple iPhone 8,../spec_data/apple/Apple iPhone 8.csv,20220808,20220808
+19,19,1,3,Apple iPhone 8 Plus,../spec_data/apple/Apple iPhone 8 Plus.csv,20220808,20220808
+20,20,1,3,Apple iPhone 7,../spec_data/apple/Apple iPhone 7.csv,20220808,20220808
+21,21,1,3,Apple iPhone 7 Plus,../spec_data/apple/Apple iPhone 7 Plus.csv,20220808,20220808
+22,22,1,3,Apple iPhone SE,../spec_data/apple/Apple iPhone SE.csv,20220808,20220808
+23,23,1,3,iPhone 6S,../spec_data/apple/iPhone 6S.csv,20220808,20220808
+24,24,1,3,Apple iPhone 6S Plus,../spec_data/apple/Apple iPhone 6S Plus.csv,20220808,20220808
+25,25,1,3,Apple iPhone 6,../spec_data/apple/Apple iPhone 6.csv,20220808,20220808
+26,26,1,3,Apple iPhone 6 Plus,../spec_data/apple/Apple iPhone 6 Plus.csv,20220808,20220808
+27,27,1,3,Apple iPhone 5S,../spec_data/apple/Apple iPhone 5S.csv,20220808,20220808
+28,28,1,3,Apple iPhone 5C,../spec_data/apple/Apple iPhone 5C.csv,20220808,20220808
+29,29,1,3,Apple iPhone 5,../spec_data/apple/Apple iPhone 5.csv,20220808,20220808
+30,30,1,3,Apple iPhone 4S,../spec_data/apple/Apple iPhone 4S.csv,20220808,20220808
+31,31,1,3,Apple iPhone 4,../spec_data/apple/Apple iPhone 4.csv,20220808,20220808
+32,32,1,3,Apple iPhone 3GS,../spec_data/apple/Apple iPhone 3GS.csv,20220808,20220808
+33,33,1,3,Apple iPhone 3G,../spec_data/apple/Apple iPhone 3G.csv,20220808,20220808
+34,34,1,3,Apple iPhone 2G,../spec_data/apple/Apple iPhone 2G.csv,20220808,20220808
+35,35,2,3,Asus ROG Phone 6 Pro,../spec_data/asus/Asus ROG Phone 6 Pro.csv,20220808,20220808
+36,36,2,3,Asus ROG Phone 6,../spec_data/asus/Asus ROG Phone 6.csv,20220808,20220808
+37,37,2,3,Asus ROG Phone 5S,../spec_data/asus/Asus ROG Phone 5S.csv,20220808,20220808
+38,38,2,3,Asus ROG Phone 5S Pro,../spec_data/asus/Asus ROG Phone 5S Pro.csv,20220808,20220808
+39,39,2,3,Asus ZenFone 8 Flip,../spec_data/asus/Asus ZenFone 8 Flip.csv,20220808,20220808
+40,40,2,3,Asus ZenFone 8,../spec_data/asus/Asus ZenFone 8.csv,20220808,20220808
+41,41,2,3,Asus ROG Phone 5,../spec_data/asus/Asus ROG Phone 5.csv,20220808,20220808
+42,42,2,3,Asus ZenFone 7,../spec_data/asus/Asus ZenFone 7.csv,20220808,20220808
+43,43,2,3,Asus ZenFone 7 Pro,../spec_data/asus/Asus ZenFone 7 Pro.csv,20220808,20220808
+44,44,2,3,Asus ROG Phone 3,../spec_data/asus/Asus ROG Phone 3.csv,20220808,20220808
+45,45,2,3,Asus ROG Phone II,../spec_data/asus/Asus ROG Phone II.csv,20220808,20220808
+46,46,2,3,Asus ZenFone 6,../spec_data/asus/Asus ZenFone 6.csv,20220808,20220808
+47,47,2,3,Asus ZenFone Max Pro M2,../spec_data/asus/Asus ZenFone Max Pro M2.csv,20220808,20220808
+48,48,2,3,Asus ZenFone 5Z,../spec_data/asus/Asus ZenFone 5Z.csv,20220808,20220808
+49,49,2,3,Asus ROG Phone,../spec_data/asus/Asus ROG Phone.csv,20220808,20220808
+50,50,2,3,Asus ZenFone 5 Lite,../spec_data/asus/Asus ZenFone 5 Lite.csv,20220808,20220808
+51,51,2,3,Asus ZenFone 5 (2018),../spec_data/asus/Asus ZenFone 5 (2018).csv,20220808,20220808
+52,52,2,3,Asus ZenFone Max Plus,../spec_data/asus/Asus ZenFone Max Plus.csv,20220808,20220808
+53,53,2,3,Asus ZenFone 4 Selfie Pro,../spec_data/asus/Asus ZenFone 4 Selfie Pro.csv,20220808,20220808
+54,54,2,3,Asus ZenFone 4 Selfie,../spec_data/asus/Asus ZenFone 4 Selfie.csv,20220808,20220808
+55,55,2,3,Asus ZenFone 4,../spec_data/asus/Asus ZenFone 4.csv,20220808,20220808
+56,56,2,3,Asus ZenFone 4 Max Pro,../spec_data/asus/Asus ZenFone 4 Max Pro.csv,20220808,20220808
+57,57,2,3,Asus ZenFone 4 Pro,../spec_data/asus/Asus ZenFone 4 Pro.csv,20220808,20220808
+58,58,2,3,Asus Zenfone 4 Max,../spec_data/asus/Asus Zenfone 4 Max.csv,20220808,20220808
+59,59,2,3,Asus ZenFone AR,../spec_data/asus/Asus ZenFone AR.csv,20220808,20220808
+60,60,2,3,Asus ZenFone Live,../spec_data/asus/Asus ZenFone Live.csv,20220808,20220808
+61,61,2,3,Asus ZenFone 3 Zoom,../spec_data/asus/Asus ZenFone 3 Zoom.csv,20220808,20220808
+62,62,2,3,Asus ZenFone 3 Max 5.5,../spec_data/asus/Asus ZenFone 3 Max 5.5.csv,20220808,20220808
+63,63,2,3,Asus ZenFone 3 Max 5.2,../spec_data/asus/Asus ZenFone 3 Max 5.2.csv,20220808,20220808
+64,64,2,3,Asus ZenFone 3 Deluxe,../spec_data/asus/Asus ZenFone 3 Deluxe.csv,20220808,20220808
+65,65,2,3,Asus ZenFone 3,../spec_data/asus/Asus ZenFone 3.csv,20220808,20220808
+66,66,2,3,Asus ZenFone 3 Ultra,../spec_data/asus/Asus ZenFone 3 Ultra.csv,20220808,20220808
+67,67,2,3,Asus Zenfone Max,../spec_data/asus/Asus Zenfone Max.csv,20220808,20220808
+68,68,2,3,Asus Zenfone Go (ZB551KL)‏,../spec_data/asus/Asus Zenfone Go (ZB551KL)‏.csv,20220808,20220808
+69,69,2,3,Asus Zenfone Max 高配版,../spec_data/asus/Asus Zenfone Max 高配版.csv,20220808,20220808
+70,70,2,3,Asus Zenfone Zoom,../spec_data/asus/Asus Zenfone Zoom.csv,20220808,20220808
+71,71,2,3,Asus Zenfone 2,../spec_data/asus/Asus Zenfone 2.csv,20220808,20220808
+72,72,2,3,Asus Zenfone Selfie,../spec_data/asus/Asus Zenfone Selfie.csv,20220808,20220808
+73,73,2,3,Asus Zenfone 2 Laser ZE500KL,../spec_data/asus/Asus Zenfone 2 Laser ZE500KL.csv,20220808,20220808
+74,74,2,3,Asus Zenfone 2 Laser ZE550KL,../spec_data/asus/Asus Zenfone 2 Laser ZE550KL.csv,20220808,20220808
+75,75,2,3,Asus Zenfone 2 Deluxe,../spec_data/asus/Asus Zenfone 2 Deluxe.csv,20220808,20220808
+76,76,2,3,Asus Zenfone 2  ZE550ML,../spec_data/asus/Asus Zenfone 2  ZE550ML.csv,20220808,20220808
+77,77,2,3,Asus Zenfone 5 LTE,../spec_data/asus/Asus Zenfone 5 LTE.csv,20220808,20220808
+78,78,2,3,Asus Padfone S,../spec_data/asus/Asus Padfone S.csv,20220808,20220808
+79,79,2,3,Asus Zenfone 5 升級版,../spec_data/asus/Asus Zenfone 5 升級版.csv,20220808,20220808
+80,80,2,3,Asus Zenfone 6 (2014),../spec_data/asus/Asus Zenfone 6 (2014).csv,20220808,20220808
+81,81,2,3,Asus Zenfone 5 (2014),../spec_data/asus/Asus Zenfone 5 (2014).csv,20220808,20220808
+82,82,2,3,Asus Padfone mini,../spec_data/asus/Asus Padfone mini.csv,20220808,20220808
+83,83,2,3,Asus Fonepad Note 6,../spec_data/asus/Asus Fonepad Note 6.csv,20220808,20220808
+84,84,2,3,Asus The New Padfone Infinity,../spec_data/asus/Asus The New Padfone Infinity.csv,20220808,20220808
+85,85,2,3,Asus Padfone infinity,../spec_data/asus/Asus Padfone infinity.csv,20220808,20220808
+86,86,2,3,Asus Transformer Pad TF300TG,../spec_data/asus/Asus Transformer Pad TF300TG.csv,20220808,20220808
+87,87,2,3,Asus Padfone 2,../spec_data/asus/Asus Padfone 2.csv,20220808,20220808
+88,88,2,3,ASUS A50,../spec_data/asus/ASUS A50.csv,20220808,20220808
+89,89,2,3,ASUS Garmin M10,../spec_data/asus/ASUS Garmin M10.csv,20220808,20220808
+90,90,2,3,ASUS Garmin M20,../spec_data/asus/ASUS Garmin M20.csv,20220808,20220808
+91,91,2,3,ASUS P552w,../spec_data/asus/ASUS P552w.csv,20220808,20220808
+92,92,2,3,ASUS P320,../spec_data/asus/ASUS P320.csv,20220808,20220808
+93,93,2,3,ASUS P550,../spec_data/asus/ASUS P550.csv,20220808,20220808
+94,94,2,3,ASUS P750,../spec_data/asus/ASUS P750.csv,20220808,20220808
+95,95,2,3,ASUS P527,../spec_data/asus/ASUS P527.csv,20220808,20220808
+96,96,2,3,ASUS M530w,../spec_data/asus/ASUS M530w.csv,20220808,20220808
+97,97,2,3,ASUS P526,../spec_data/asus/ASUS P526.csv,20220808,20220808
+98,98,2,3,ASUS P535,../spec_data/asus/ASUS P535.csv,20220808,20220808
+99,99,2,3,ASUS P525,../spec_data/asus/ASUS P525.csv,20220808,20220808
+100,100,2,3,ASUS P835,../spec_data/asus/ASUS P835.csv,20220808,20220808
+101,101,2,3,ASUS J206,../spec_data/asus/ASUS J206.csv,20220808,20220808
+102,102,2,3,ASUS Garmin G60,../spec_data/asus/ASUS Garmin G60.csv,20220808,20220808
+103,103,2,3,ASUS V75,../spec_data/asus/ASUS V75.csv,20220808,20220808
+104,104,2,3,ASUS E600,../spec_data/asus/ASUS E600.csv,20220808,20220808
+105,105,2,3,ASUS V80,../spec_data/asus/ASUS V80.csv,20220808,20220808
+106,106,2,3,ASUS J210,../spec_data/asus/ASUS J210.csv,20220808,20220808
+107,107,2,3,ASUS M930,../spec_data/asus/ASUS M930.csv,20220808,20220808
+108,108,2,3,ASUS Padfone,../spec_data/asus/ASUS Padfone.csv,20220808,20220808
+109,109,2,3,ASUS P565,../spec_data/asus/ASUS P565.csv,20220808,20220808
+110,110,2,3,ASUS A10,../spec_data/asus/ASUS A10.csv,20220808,20220808
+111,111,2,3,ASUS P735,../spec_data/asus/ASUS P735.csv,20220808,20220808
+112,112,2,3,ASUS M307,../spec_data/asus/ASUS M307.csv,20220808,20220808
+113,113,3,3,Google Pixel 6 Pro,../spec_data/google/Google Pixel 6 Pro.csv,20220808,20220808
+114,114,3,3,Google Pixel 6,../spec_data/google/Google Pixel 6.csv,20220808,20220808
+115,115,3,3,Google Pixel 4a 5G,../spec_data/google/Google Pixel 4a 5G.csv,20220808,20220808
+116,116,3,3,Google Pixel 5,../spec_data/google/Google Pixel 5.csv,20220808,20220808
+117,117,3,3,Google Pixel 4a,../spec_data/google/Google Pixel 4a.csv,20220808,20220808
+118,118,3,3,Google Pixel 4,../spec_data/google/Google Pixel 4.csv,20220808,20220808
+119,119,3,3,Google Pixel 4 XL,../spec_data/google/Google Pixel 4 XL.csv,20220808,20220808
+120,120,3,3,Google Pixel 3,../spec_data/google/Google Pixel 3.csv,20220808,20220808
+121,121,3,3,Google Pixel 3 XL,../spec_data/google/Google Pixel 3 XL.csv,20220808,20220808
+122,122,3,3,Google Pixel 3a,../spec_data/google/Google Pixel 3a.csv,20220808,20220808
+123,123,3,3,Google Pixel 2,../spec_data/google/Google Pixel 2.csv,20220808,20220808
+124,124,3,3,Google Pixel 2 XL,../spec_data/google/Google Pixel 2 XL.csv,20220808,20220808
+125,125,3,3,Google Pixel,../spec_data/google/Google Pixel.csv,20220808,20220808
+126,126,3,3,Google Pixel XL,../spec_data/google/Google Pixel XL.csv,20220808,20220808
+127,113,3,3,Google Pixel 6 Pro,../spec_data/google/Google Pixel 6 Pro.csv,20220808,20220808
+128,114,3,3,Google Pixel 6,../spec_data/google/Google Pixel 6.csv,20220808,20220808
+129,115,3,3,Google Pixel 4a 5G,../spec_data/google/Google Pixel 4a 5G.csv,20220808,20220808
+130,116,3,3,Google Pixel 5,../spec_data/google/Google Pixel 5.csv,20220808,20220808
+131,117,3,3,Google Pixel 4a,../spec_data/google/Google Pixel 4a.csv,20220808,20220808
+132,118,3,3,Google Pixel 4,../spec_data/google/Google Pixel 4.csv,20220808,20220808
+133,119,3,3,Google Pixel 4 XL,../spec_data/google/Google Pixel 4 XL.csv,20220808,20220808
+134,120,3,3,Google Pixel 3,../spec_data/google/Google Pixel 3.csv,20220808,20220808
+135,121,3,3,Google Pixel 3 XL,../spec_data/google/Google Pixel 3 XL.csv,20220808,20220808
+136,122,3,3,Google Pixel 3a,../spec_data/google/Google Pixel 3a.csv,20220808,20220808
+137,123,3,3,Google Pixel 2,../spec_data/google/Google Pixel 2.csv,20220808,20220808
+138,124,3,3,Google Pixel 2 XL,../spec_data/google/Google Pixel 2 XL.csv,20220808,20220808
+139,125,3,3,Google Pixel,../spec_data/google/Google Pixel.csv,20220808,20220808
+140,126,3,3,Google Pixel XL,../spec_data/google/Google Pixel XL.csv,20220808,20220808
+141,141,4,3,Honor X8,../spec_data/honor/Honor X8.csv,20220808,20220808
+142,142,4,3,Honor X7,../spec_data/honor/Honor X7.csv,20220808,20220808
+143,143,4,3,Honor 50 Lite,../spec_data/honor/Honor 50 Lite.csv,20220808,20220808
+144,144,4,3,Honor 8s,../spec_data/honor/Honor 8s.csv,20220808,20220808
+145,145,4,3,Honor View 20,../spec_data/honor/Honor View 20.csv,20220808,20220808
+146,146,4,3,Honor 10,../spec_data/honor/Honor 10.csv,20220808,20220808
+147,141,4,3,Honor X8,../spec_data/honor/Honor X8.csv,20220808,20220808
+148,142,4,3,Honor X7,../spec_data/honor/Honor X7.csv,20220808,20220808
+149,143,4,3,Honor 50 Lite,../spec_data/honor/Honor 50 Lite.csv,20220808,20220808
+150,144,4,3,Honor 8s,../spec_data/honor/Honor 8s.csv,20220808,20220808
+151,145,4,3,Honor View 20,../spec_data/honor/Honor View 20.csv,20220808,20220808
+152,146,4,3,Honor 10,../spec_data/honor/Honor 10.csv,20220808,20220808
+153,153,5,3,HTC U20 5G,../spec_data/htc/HTC U20 5G.csv,20220808,20220808
+154,154,5,3,HTC Desire 20 Pro,../spec_data/htc/HTC Desire 20 Pro.csv,20220808,20220808
+155,155,5,3,HTC U19e,../spec_data/htc/HTC U19e.csv,20220808,20220808
+156,156,5,3,HTC U12 life,../spec_data/htc/HTC U12 life.csv,20220808,20220808
+157,157,5,3,HTC U12+,../spec_data/htc/HTC U12+.csv,20220808,20220808
+158,158,5,3,HTC EXODUS 1,../spec_data/htc/HTC EXODUS 1.csv,20220808,20220808
+159,159,5,3,HTC U11 Eyes,../spec_data/htc/HTC U11 Eyes.csv,20220808,20220808
+160,160,5,3,HTC U11+,../spec_data/htc/HTC U11+.csv,20220808,20220808
+161,161,5,3,HTC U11,../spec_data/htc/HTC U11.csv,20220808,20220808
+162,162,5,3,HTC U Ultra,../spec_data/htc/HTC U Ultra.csv,20220808,20220808
+163,163,5,3,HTC U Play,../spec_data/htc/HTC U Play.csv,20220808,20220808
+164,164,5,3,HTC Desire 10 Pro,../spec_data/htc/HTC Desire 10 Pro.csv,20220808,20220808
+165,165,5,3,HTC Desire 10 Style,../spec_data/htc/HTC Desire 10 Style.csv,20220808,20220808
+166,166,5,3,HTC One A9S,../spec_data/htc/HTC One A9S.csv,20220808,20220808
+167,167,5,3,HTC Desire 630,../spec_data/htc/HTC Desire 630.csv,20220808,20220808
+168,168,5,3,HTC Desire 825,../spec_data/htc/HTC Desire 825.csv,20220808,20220808
+169,169,5,3,HTC 10,../spec_data/htc/HTC 10.csv,20220808,20220808
+170,170,5,3,HTC Desire 530,../spec_data/htc/HTC Desire 530.csv,20220808,20220808
+171,171,5,3,HTC One X9,../spec_data/htc/HTC One X9.csv,20220808,20220808
+172,172,5,3,HTC Desire 728 Dual SIM,../spec_data/htc/HTC Desire 728 Dual SIM.csv,20220808,20220808
+173,173,5,3,HTC One A9,../spec_data/htc/HTC One A9.csv,20220808,20220808
+174,174,5,3,HTC One M9+ (相機升級版),../spec_data/htc/HTC One M9+ (相機升級版).csv,20220808,20220808
+175,175,5,3,HTC One E9,../spec_data/htc/HTC One E9.csv,20220808,20220808
+176,176,5,3,HTC One M9s,../spec_data/htc/HTC One M9s.csv,20220808,20220808
+177,177,5,3,HTC One ME Dual SIM,../spec_data/htc/HTC One ME Dual SIM.csv,20220808,20220808
+178,178,5,3,HTC One M9+,../spec_data/htc/HTC One M9+.csv,20220808,20220808
+179,179,5,3,HTC One M9,../spec_data/htc/HTC One M9.csv,20220808,20220808
+180,180,5,3,HTC One E9+,../spec_data/htc/HTC One E9+.csv,20220808,20220808
+181,181,5,3,HTC Desire 626,../spec_data/htc/HTC Desire 626.csv,20220808,20220808
+182,182,5,3,HTC Desire 820s Dual SIM,../spec_data/htc/HTC Desire 820s Dual SIM.csv,20220808,20220808
+183,183,5,3,HTC Desire 620 Dual Sim,../spec_data/htc/HTC Desire 620 Dual Sim.csv,20220808,20220808
+184,184,5,3,HTC Desire 816G,../spec_data/htc/HTC Desire 816G.csv,20220808,20220808
+185,185,5,3,HTC Desire 820 Dual SIM,../spec_data/htc/HTC Desire 820 Dual SIM.csv,20220808,20220808
+186,186,5,3,HTC Desire Eye,../spec_data/htc/HTC Desire Eye.csv,20220808,20220808
+187,187,5,3,HTC Desire 826 Dual SIM,../spec_data/htc/HTC Desire 826 Dual SIM.csv,20220808,20220808
+188,188,5,3,HTC One E8,../spec_data/htc/HTC One E8.csv,20220808,20220808
+189,189,5,3,HTC Desire 510,../spec_data/htc/HTC Desire 510.csv,20220808,20220808
+190,190,5,3,HTC J Butterfly HTL23,../spec_data/htc/HTC J Butterfly HTL23.csv,20220808,20220808
+191,191,5,3,HTC Desire 616,../spec_data/htc/HTC Desire 616.csv,20220808,20220808
+192,192,5,3,HTC Desire 816 4G,../spec_data/htc/HTC Desire 816 4G.csv,20220808,20220808
+193,193,5,3,HTC Desire 816 dual SIM,../spec_data/htc/HTC Desire 816 dual SIM.csv,20220808,20220808
+194,194,5,3,HTC One M8,../spec_data/htc/HTC One M8.csv,20220808,20220808
+195,195,5,3,HTC Desire 610,../spec_data/htc/HTC Desire 610.csv,20220808,20220808
+196,196,5,3,HTC Desire 310,../spec_data/htc/HTC Desire 310.csv,20220808,20220808
+197,197,5,3,HTC One Max,../spec_data/htc/HTC One Max.csv,20220808,20220808
+198,198,5,3,HTC Butterfly s,../spec_data/htc/HTC Butterfly s.csv,20220808,20220808
+199,199,5,3,HTC One mini,../spec_data/htc/HTC One mini.csv,20220808,20220808
+200,200,5,3,HTC Desire 200,../spec_data/htc/HTC Desire 200.csv,20220808,20220808
+201,201,5,3,HTC Desire 600 dual Sim,../spec_data/htc/HTC Desire 600 dual Sim.csv,20220808,20220808
+202,202,5,3,HTC Desire 500,../spec_data/htc/HTC Desire 500.csv,20220808,20220808
+203,203,5,3,HTC Desire 700 Dual Sim,../spec_data/htc/HTC Desire 700 Dual Sim.csv,20220808,20220808
+204,204,5,3,HTC Desire L,../spec_data/htc/HTC Desire L.csv,20220808,20220808
+205,205,5,3,HTC Desire Q,../spec_data/htc/HTC Desire Q.csv,20220808,20220808
+206,206,5,3,HTC First,../spec_data/htc/HTC First.csv,20220808,20220808
+207,207,5,3,HTC One,../spec_data/htc/HTC One.csv,20220808,20220808
+208,208,5,3,HTC One SV,../spec_data/htc/HTC One SV.csv,20220808,20220808
+209,209,5,3,HTC Butterfly,../spec_data/htc/HTC Butterfly.csv,20220808,20220808
+210,210,5,3,HTC Desire X,../spec_data/htc/HTC Desire X.csv,20220808,20220808
+211,211,5,3,HTC One X+,../spec_data/htc/HTC One X+.csv,20220808,20220808
+212,212,5,3,HTC One XL+,../spec_data/htc/HTC One XL+.csv,20220808,20220808
+213,213,5,3,HTC 8X,../spec_data/htc/HTC 8X.csv,20220808,20220808
+214,214,5,3,HTC Windows Phone 8S,../spec_data/htc/HTC Windows Phone 8S.csv,20220808,20220808
+215,215,5,3,HTC J,../spec_data/htc/HTC J.csv,20220808,20220808
+216,216,5,3,HTC Desire V,../spec_data/htc/HTC Desire V.csv,20220808,20220808
+217,217,5,3,HTC Desire C,../spec_data/htc/HTC Desire C.csv,20220808,20220808
+218,218,5,3,HTC One X,../spec_data/htc/HTC One X.csv,20220808,20220808
+219,219,5,3,HTC One V,../spec_data/htc/HTC One V.csv,20220808,20220808
+220,220,5,3,HTC One S,../spec_data/htc/HTC One S.csv,20220808,20220808
+221,221,5,3,HTC One XL,../spec_data/htc/HTC One XL.csv,20220808,20220808
+222,222,5,3,HTC Velocity 4G,../spec_data/htc/HTC Velocity 4G.csv,20220808,20220808
+223,223,5,3,HTC Titan II,../spec_data/htc/HTC Titan II.csv,20220808,20220808
+224,224,5,3,HTC Titan,../spec_data/htc/HTC Titan.csv,20220808,20220808
+225,225,5,3,HTC Explorer,../spec_data/htc/HTC Explorer.csv,20220808,20220808
+226,226,5,3,HTC Sensation XL,../spec_data/htc/HTC Sensation XL.csv,20220808,20220808
+227,227,5,3,HTC Rhyme,../spec_data/htc/HTC Rhyme.csv,20220808,20220808
+228,228,5,3,HTC ChaCha,../spec_data/htc/HTC ChaCha.csv,20220808,20220808
+229,229,5,3,HTC EVO 3D,../spec_data/htc/HTC EVO 3D.csv,20220808,20220808
+230,230,5,3,HTC Salsa,../spec_data/htc/HTC Salsa.csv,20220808,20220808
+231,231,5,3,HTC Sensation,../spec_data/htc/HTC Sensation.csv,20220808,20220808
+232,232,5,3,HTC Wildfire S,../spec_data/htc/HTC Wildfire S.csv,20220808,20220808
+233,233,5,3,HTC Desire S,../spec_data/htc/HTC Desire S.csv,20220808,20220808
+234,234,5,3,HTC Incredible S,../spec_data/htc/HTC Incredible S.csv,20220808,20220808
+235,235,5,3,HTC Desire HD,../spec_data/htc/HTC Desire HD.csv,20220808,20220808
+236,236,5,3,HTC Desire Z,../spec_data/htc/HTC Desire Z.csv,20220808,20220808
+237,237,5,3,HTC HD7,../spec_data/htc/HTC HD7.csv,20220808,20220808
+238,238,5,3,HTC 7 Mozart,../spec_data/htc/HTC 7 Mozart.csv,20220808,20220808
+239,239,5,3,HTC Aria,../spec_data/htc/HTC Aria.csv,20220808,20220808
+240,240,5,3,HTC Wildfire,../spec_data/htc/HTC Wildfire.csv,20220808,20220808
+241,241,5,3,HTC Desire,../spec_data/htc/HTC Desire.csv,20220808,20220808
+242,242,5,3,HTC Smart,../spec_data/htc/HTC Smart.csv,20220808,20220808
+243,243,5,3,HTC Legend,../spec_data/htc/HTC Legend.csv,20220808,20220808
+244,244,5,3,HTC HD mini,../spec_data/htc/HTC HD mini.csv,20220808,20220808
+245,245,5,3,HTC Google Nexus One,../spec_data/htc/HTC Google Nexus One.csv,20220808,20220808
+246,246,5,3,HTC HD2,../spec_data/htc/HTC HD2.csv,20220808,20220808
+247,247,5,3,HTC Tattoo,../spec_data/htc/HTC Tattoo.csv,20220808,20220808
+248,248,5,3,HTC Touch2,../spec_data/htc/HTC Touch2.csv,20220808,20220808
+249,249,5,3,HTC Hero,../spec_data/htc/HTC Hero.csv,20220808,20220808
+250,250,5,3,HTC Touch Pro2,../spec_data/htc/HTC Touch Pro2.csv,20220808,20220808
+251,251,5,3,HTC Magic,../spec_data/htc/HTC Magic.csv,20220808,20220808
+252,252,5,3,HTC Touch Cruise 09,../spec_data/htc/HTC Touch Cruise 09.csv,20220808,20220808
+253,253,5,3,HTC Touch 3G,../spec_data/htc/HTC Touch 3G.csv,20220808,20220808
+254,254,5,3,HTC Touch HD,../spec_data/htc/HTC Touch HD.csv,20220808,20220808
+255,255,5,3,HTC Touch Viva,../spec_data/htc/HTC Touch Viva.csv,20220808,20220808
+256,256,5,3,HTC Touch Pro,../spec_data/htc/HTC Touch Pro.csv,20220808,20220808
+257,257,5,3,HTC Touch Diamond,../spec_data/htc/HTC Touch Diamond.csv,20220808,20220808
+258,258,5,3,HTC P3470,../spec_data/htc/HTC P3470.csv,20220808,20220808
+259,259,5,3,HTC Shift,../spec_data/htc/HTC Shift.csv,20220808,20220808
+260,260,5,3,HTC S730,../spec_data/htc/HTC S730.csv,20220808,20220808
+261,261,5,3,HTC Touch Cruise,../spec_data/htc/HTC Touch Cruise.csv,20220808,20220808
+262,262,5,3,HTC TyTN II,../spec_data/htc/HTC TyTN II.csv,20220808,20220808
+263,263,5,3,HTC Touch Dual,../spec_data/htc/HTC Touch Dual.csv,20220808,20220808
+264,264,5,3,HTC Snap,../spec_data/htc/HTC Snap.csv,20220808,20220808
+265,265,5,3,HTC 7 Pro,../spec_data/htc/HTC 7 Pro.csv,20220808,20220808
+266,266,5,3,HTC Trophy,../spec_data/htc/HTC Trophy.csv,20220808,20220808
+267,267,5,3,HTC 7 Surround,../spec_data/htc/HTC 7 Surround.csv,20220808,20220808
+268,268,5,3,HTC Gratia,../spec_data/htc/HTC Gratia.csv,20220808,20220808
+269,269,5,3,HTC Inspire 4G,../spec_data/htc/HTC Inspire 4G.csv,20220808,20220808
+270,270,5,3,HTC Freestyle,../spec_data/htc/HTC Freestyle.csv,20220808,20220808
+271,271,5,3,HTC U1000,../spec_data/htc/HTC U1000.csv,20220808,20220808
+272,272,5,3,HTC S740,../spec_data/htc/HTC S740.csv,20220808,20220808
+273,273,5,3,HTC Dream G1,../spec_data/htc/HTC Dream G1.csv,20220808,20220808
+274,274,5,3,HTC Radar,../spec_data/htc/HTC Radar.csv,20220808,20220808
+275,275,5,3,HTC Sensation XE with Beats Audio,../spec_data/htc/HTC Sensation XE with Beats Audio.csv,20220808,20220808
+276,276,5,3,HTC One mini 2,../spec_data/htc/HTC One mini 2.csv,20220808,20220808
+277,277,5,3,HTC Touch,../spec_data/htc/HTC Touch.csv,20220808,20220808
+278,278,5,3,HTC MAX 4G,../spec_data/htc/HTC MAX 4G.csv,20220808,20220808
+279,279,5,3,HTC Rezound,../spec_data/htc/HTC Rezound.csv,20220808,20220808
+280,280,5,3,HTC Butterfly 2,../spec_data/htc/HTC Butterfly 2.csv,20220808,20220808
+281,281,5,3,HTC P3600i,../spec_data/htc/HTC P3600i.csv,20220808,20220808
+282,282,5,3,HTC Touch Diamond2,../spec_data/htc/HTC Touch Diamond2.csv,20220808,20220808
+283,283,6,3,Huawei nova 9 SE,../spec_data/huawei/Huawei nova 9 SE.csv,20220808,20220808
+284,284,6,3,Huawei P50 Pro,../spec_data/huawei/Huawei P50 Pro.csv,20220808,20220808
+285,285,6,3,Huawei P50 Pocket,../spec_data/huawei/Huawei P50 Pocket.csv,20220808,20220808
+286,286,6,3,Huawei nova 9,../spec_data/huawei/Huawei nova 9.csv,20220808,20220808
+287,287,6,3,Huawei Mate 40 Pro,../spec_data/huawei/Huawei Mate 40 Pro.csv,20220808,20220808
+288,288,6,3,Huawei Nova 7 SE,../spec_data/huawei/Huawei Nova 7 SE.csv,20220808,20220808
+289,289,6,3,Huawei Nova 7,../spec_data/huawei/Huawei Nova 7.csv,20220808,20220808
+290,290,6,3,Huawei Y6P,../spec_data/huawei/Huawei Y6P.csv,20220808,20220808
+291,291,6,3,Huawei P40 Pro+,../spec_data/huawei/Huawei P40 Pro+.csv,20220808,20220808
+292,292,6,3,Huawei P40,../spec_data/huawei/Huawei P40.csv,20220808,20220808
+293,293,6,3,Huawei P40 Pro,../spec_data/huawei/Huawei P40 Pro.csv,20220808,20220808
+294,291,6,3,Huawei P40 Pro+,../spec_data/huawei/Huawei P40 Pro+.csv,20220808,20220808
+295,295,6,3,Huawei Mate Xs,../spec_data/huawei/Huawei Mate Xs.csv,20220808,20220808
+296,296,6,3,Huawei nova 7i,../spec_data/huawei/Huawei nova 7i.csv,20220808,20220808
+297,297,6,3,Huawei P30 lite new edition,../spec_data/huawei/Huawei P30 lite new edition.csv,20220808,20220808
+298,298,6,3,Huawei Y9s,../spec_data/huawei/Huawei Y9s.csv,20220808,20220808
+299,299,6,3,Huawei Mate 30 RS,../spec_data/huawei/Huawei Mate 30 RS.csv,20220808,20220808
+300,300,6,3,Huawei Nova 5T,../spec_data/huawei/Huawei Nova 5T.csv,20220808,20220808
+301,301,6,3,Huawei Mate 30 Pro,../spec_data/huawei/Huawei Mate 30 Pro.csv,20220808,20220808
+302,302,6,3,Huawei Mate 30,../spec_data/huawei/Huawei Mate 30.csv,20220808,20220808
+303,303,6,3,Huawei Y9 Prime 2019,../spec_data/huawei/Huawei Y9 Prime 2019.csv,20220808,20220808
+304,304,6,3,Huawei P30 Pro,../spec_data/huawei/Huawei P30 Pro.csv,20220808,20220808
+305,305,6,3,Huawei P30,../spec_data/huawei/Huawei P30.csv,20220808,20220808
+306,306,6,3,Huawei P30 lite,../spec_data/huawei/Huawei P30 lite.csv,20220808,20220808
+307,307,6,3,Huawei Nova 4,../spec_data/huawei/Huawei Nova 4.csv,20220808,20220808
+308,308,6,3,Huawei Y9 2019,../spec_data/huawei/Huawei Y9 2019.csv,20220808,20220808
+309,309,6,3,Huawei Mate 20 Pro,../spec_data/huawei/Huawei Mate 20 Pro.csv,20220808,20220808
+310,310,6,3,Huawei Mate 20,../spec_data/huawei/Huawei Mate 20.csv,20220808,20220808
+311,311,6,3,Huawei Mate 20X,../spec_data/huawei/Huawei Mate 20X.csv,20220808,20220808
+312,312,6,3,Huawei Nova 3,../spec_data/huawei/Huawei Nova 3.csv,20220808,20220808
+313,313,6,3,Huawei Nova 3i,../spec_data/huawei/Huawei Nova 3i.csv,20220808,20220808
+314,314,6,3,Huawei Y6 Prime 2018,../spec_data/huawei/Huawei Y6 Prime 2018.csv,20220808,20220808
+315,315,6,3,Huawei Y7 Prime 2018,../spec_data/huawei/Huawei Y7 Prime 2018.csv,20220808,20220808
+316,316,6,3,Huawei P20 Pro,../spec_data/huawei/Huawei P20 Pro.csv,20220808,20220808
+317,317,6,3,Huawei P20,../spec_data/huawei/Huawei P20.csv,20220808,20220808
+318,318,6,3,Huawei P20 Lite,../spec_data/huawei/Huawei P20 Lite.csv,20220808,20220808
+319,319,6,3,Huawei Mate 10 Pro,../spec_data/huawei/Huawei Mate 10 Pro.csv,20220808,20220808
+320,320,6,3,Porsche Design Huawei Mate 10,../spec_data/huawei/Porsche Design Huawei Mate 10.csv,20220808,20220808
+321,321,6,3,Huawei Mate 10,../spec_data/huawei/Huawei Mate 10.csv,20220808,20220808
+322,322,6,3,Huawei nova 2i,../spec_data/huawei/Huawei nova 2i.csv,20220808,20220808
+323,323,6,3,Huawei Nova 2 Plus,../spec_data/huawei/Huawei Nova 2 Plus.csv,20220808,20220808
+324,324,6,3,Huawei Y7 Prime,../spec_data/huawei/Huawei Y7 Prime.csv,20220808,20220808
+325,325,6,3,Huawei P10 Lite,../spec_data/huawei/Huawei P10 Lite.csv,20220808,20220808
+326,326,6,3,Huawei P10,../spec_data/huawei/Huawei P10.csv,20220808,20220808
+327,327,6,3,Huawei P10 Plus,../spec_data/huawei/Huawei P10 Plus.csv,20220808,20220808
+328,328,6,3,Huawei Mate 9 Pro,../spec_data/huawei/Huawei Mate 9 Pro.csv,20220808,20220808
+329,329,6,3,Huawei Honor Magic,../spec_data/huawei/Huawei Honor Magic.csv,20220808,20220808
+330,330,6,3,Huawei Honor 6X,../spec_data/huawei/Huawei Honor 6X.csv,20220808,20220808
+331,331,6,3,Huawei Nova,../spec_data/huawei/Huawei Nova.csv,20220808,20220808
+332,332,6,3,Huawei Nova Plus,../spec_data/huawei/Huawei Nova Plus.csv,20220808,20220808
+333,333,6,3,Huawei Mate 9,../spec_data/huawei/Huawei Mate 9.csv,20220808,20220808
+334,334,6,3,HUAWEI P9 Plus,../spec_data/huawei/HUAWEI P9 Plus.csv,20220808,20220808
+335,335,6,3,HUAWEI P9 Lite,../spec_data/huawei/HUAWEI P9 Lite.csv,20220808,20220808
+336,336,6,3,HUAWEI P9,../spec_data/huawei/HUAWEI P9.csv,20220808,20220808
+337,337,6,3,HUAWEI Y6 Pro,../spec_data/huawei/HUAWEI Y6 Pro.csv,20220808,20220808
+338,338,6,3,HUAWEI Mate 8,../spec_data/huawei/HUAWEI Mate 8.csv,20220808,20220808
+339,339,6,3,Nexus 6P,../spec_data/huawei/Nexus 6P.csv,20220808,20220808
+340,340,6,3,HUAWEI G7 Plus,../spec_data/huawei/HUAWEI G7 Plus.csv,20220808,20220808
+341,341,6,3,HUAWEI Mate S,../spec_data/huawei/HUAWEI Mate S.csv,20220808,20220808
+342,342,6,3,HUAWEI P8,../spec_data/huawei/HUAWEI P8.csv,20220808,20220808
+343,343,6,3,HUAWEI Honor 6 Plus,../spec_data/huawei/HUAWEI Honor 6 Plus.csv,20220808,20220808
+344,344,6,3,HUAWEI Ascend G620S,../spec_data/huawei/HUAWEI Ascend G620S.csv,20220808,20220808
+345,345,6,3,HUAWEI Ascend G7,../spec_data/huawei/HUAWEI Ascend G7.csv,20220808,20220808
+346,346,6,3,HUAWEI Ascend Mate 7,../spec_data/huawei/HUAWEI Ascend Mate 7.csv,20220808,20220808
+347,347,6,3,HUAWEI Honor 6,../spec_data/huawei/HUAWEI Honor 6.csv,20220808,20220808
+348,348,6,3,HUAWEI Ascend P7,../spec_data/huawei/HUAWEI Ascend P7.csv,20220808,20220808
+349,349,6,3,Huawei Ascend G750,../spec_data/huawei/Huawei Ascend G750.csv,20220808,20220808
+350,350,6,3,HUAWEIAscend G6,../spec_data/huawei/HUAWEIAscend G6.csv,20220808,20220808
+351,351,6,3,HUAWEI Honor 3C,../spec_data/huawei/HUAWEI Honor 3C.csv,20220808,20220808
+352,352,6,3,HUAWEI Ascend Mate 2 4G,../spec_data/huawei/HUAWEI Ascend Mate 2 4G.csv,20220808,20220808
+353,353,6,3,HUAWEI G525,../spec_data/huawei/HUAWEI G525.csv,20220808,20220808
+354,354,6,3,Huawei Ascend P1 LTE,../spec_data/huawei/Huawei Ascend P1 LTE.csv,20220808,20220808
+355,355,6,3,Huawei Honor 2,../spec_data/huawei/Huawei Honor 2.csv,20220808,20220808
+356,356,6,3,Huawei Ascend D2,../spec_data/huawei/Huawei Ascend D2.csv,20220808,20220808
+357,357,6,3,Huawei Ascend Mate,../spec_data/huawei/Huawei Ascend Mate.csv,20220808,20220808
+358,358,6,3,HUAWEI Ascend P2,../spec_data/huawei/HUAWEI Ascend P2.csv,20220808,20220808
+359,359,6,3,HUAWEI Ascend P6,../spec_data/huawei/HUAWEI Ascend P6.csv,20220808,20220808
+360,360,6,3,Huawei Ascend P1,../spec_data/huawei/Huawei Ascend P1.csv,20220808,20220808
+361,361,6,3,Huawei Ascend G300,../spec_data/huawei/Huawei Ascend G300.csv,20220808,20220808
+362,362,6,3,Huawei Ascend Y200,../spec_data/huawei/Huawei Ascend Y200.csv,20220808,20220808
+363,363,6,3,Huawai Honor,../spec_data/huawei/Huawai Honor.csv,20220808,20220808
+364,364,6,3,Huawei Ascend D1 quad,../spec_data/huawei/Huawei Ascend D1 quad.csv,20220808,20220808
+365,365,6,3,Huawei Ascend D quad XL,../spec_data/huawei/Huawei Ascend D quad XL.csv,20220808,20220808
+366,366,6,3,Huawei Ascend D1,../spec_data/huawei/Huawei Ascend D1.csv,20220808,20220808
+367,367,6,3,Huawei Honor,../spec_data/huawei/Huawei Honor.csv,20220808,20220808
+368,368,6,3,Huawei Boulder U8350,../spec_data/huawei/Huawei Boulder U8350.csv,20220808,20220808
+369,369,6,3,Huawei SONIC U8650,../spec_data/huawei/Huawei SONIC U8650.csv,20220808,20220808
+370,370,6,3,Huawei IDEOS X3,../spec_data/huawei/Huawei IDEOS X3.csv,20220808,20220808
+371,371,6,3,Huawei GAGA U8180,../spec_data/huawei/Huawei GAGA U8180.csv,20220808,20220808
+372,372,6,3,Huawei P50,../spec_data/huawei/Huawei P50.csv,20220808,20220808
+373,373,6,3,Huawei IDEOS X5,../spec_data/huawei/Huawei IDEOS X5.csv,20220808,20220808
+374,374,6,3,Huawei IDEOS U8150,../spec_data/huawei/Huawei IDEOS U8150.csv,20220808,20220808
+375,375,6,3,Huawei U Plus Android,../spec_data/huawei/Huawei U Plus Android.csv,20220808,20220808
+376,376,6,3,Huawei U mini Android,../spec_data/huawei/Huawei U mini Android.csv,20220808,20220808
+377,377,6,3,Huawei U Android,../spec_data/huawei/Huawei U Android.csv,20220808,20220808
+378,378,6,3,Huawei IDEOS X6,../spec_data/huawei/Huawei IDEOS X6.csv,20220808,20220808
+379,379,6,3,Huawei Mate X,../spec_data/huawei/Huawei Mate X.csv,20220808,20220808
+380,380,7,3,Microsoft Surface Duo,../spec_data/microsoft/Microsoft Surface Duo.csv,20220808,20220808
+381,381,7,3,Lumia 650 Dual SIM,../spec_data/microsoft/Lumia 650 Dual SIM.csv,20220808,20220808
+382,382,7,3,Lumia 550,../spec_data/microsoft/Lumia 550.csv,20220808,20220808
+383,383,7,3,Lumia 950,../spec_data/microsoft/Lumia 950.csv,20220808,20220808
+384,384,7,3,Lumia 950 XL,../spec_data/microsoft/Lumia 950 XL.csv,20220808,20220808
+385,385,7,3,Microsoft Lumia 640,../spec_data/microsoft/Microsoft Lumia 640.csv,20220808,20220808
+386,386,7,3,Microsoft Lumia 640XL,../spec_data/microsoft/Microsoft Lumia 640XL.csv,20220808,20220808
+387,387,7,3,Microsoft Lumia 535,../spec_data/microsoft/Microsoft Lumia 535.csv,20220808,20220808
+388,388,7,3,Microsoft Lumia 535 Dual SIM,../spec_data/microsoft/Microsoft Lumia 535 Dual SIM.csv,20220808,20220808
+389,389,7,3,Microsoft Kin One,../spec_data/microsoft/Microsoft Kin One.csv,20220808,20220808
+390,390,7,3,Microsoft Kin Two,../spec_data/microsoft/Microsoft Kin Two.csv,20220808,20220808
+391,380,7,3,Microsoft Surface Duo,../spec_data/microsoft/Microsoft Surface Duo.csv,20220808,20220808
+392,381,7,3,Lumia 650 Dual SIM,../spec_data/microsoft/Lumia 650 Dual SIM.csv,20220808,20220808
+393,382,7,3,Lumia 550,../spec_data/microsoft/Lumia 550.csv,20220808,20220808
+394,383,7,3,Lumia 950,../spec_data/microsoft/Lumia 950.csv,20220808,20220808
+395,384,7,3,Lumia 950 XL,../spec_data/microsoft/Lumia 950 XL.csv,20220808,20220808
+396,385,7,3,Microsoft Lumia 640,../spec_data/microsoft/Microsoft Lumia 640.csv,20220808,20220808
+397,386,7,3,Microsoft Lumia 640XL,../spec_data/microsoft/Microsoft Lumia 640XL.csv,20220808,20220808
+398,387,7,3,Microsoft Lumia 535,../spec_data/microsoft/Microsoft Lumia 535.csv,20220808,20220808
+399,388,7,3,Microsoft Lumia 535 Dual SIM,../spec_data/microsoft/Microsoft Lumia 535 Dual SIM.csv,20220808,20220808
+400,389,7,3,Microsoft Kin One,../spec_data/microsoft/Microsoft Kin One.csv,20220808,20220808
+401,390,7,3,Microsoft Kin Two,../spec_data/microsoft/Microsoft Kin Two.csv,20220808,20220808
+402,402,8,3,Motorola Edge 20 Pro,../spec_data/motorola/Motorola Edge 20 Pro.csv,20220808,20220808
+403,403,8,3,Motorola Moto E4 Plus,../spec_data/motorola/Motorola Moto E4 Plus.csv,20220808,20220808
+404,404,8,3,Motorola Moto Z2 Play,../spec_data/motorola/Motorola Moto Z2 Play.csv,20220808,20220808
+405,405,8,3,Motorola Moto C Plus,../spec_data/motorola/Motorola Moto C Plus.csv,20220808,20220808
+406,406,8,3,Motorola Moto M,../spec_data/motorola/Motorola Moto M.csv,20220808,20220808
+407,407,8,3,Lenovo K6 Note,../spec_data/motorola/Lenovo K6 Note.csv,20220808,20220808
+408,408,8,3,Motorola Moto Z,../spec_data/motorola/Motorola Moto Z.csv,20220808,20220808
+409,409,8,3,Motorola Moto g4 Plus,../spec_data/motorola/Motorola Moto g4 Plus.csv,20220808,20220808
+410,410,8,3,Motorola Moto g5 Plus,../spec_data/motorola/Motorola Moto g5 Plus.csv,20220808,20220808
+411,411,8,3,Motorola Moto G Turbo,../spec_data/motorola/Motorola Moto G Turbo.csv,20220808,20220808
+412,412,8,3,Motorola Moto X 二代,../spec_data/motorola/Motorola Moto X 二代.csv,20220808,20220808
+413,413,8,3,Nexus 6,../spec_data/motorola/Nexus 6.csv,20220808,20220808
+414,414,8,3,Motorola Moto G2,../spec_data/motorola/Motorola Moto G2.csv,20220808,20220808
+415,415,8,3,Motorola Moto G LTE,../spec_data/motorola/Motorola Moto G LTE.csv,20220808,20220808
+416,416,8,3,Motorola Moto X,../spec_data/motorola/Motorola Moto X.csv,20220808,20220808
+417,417,8,3,Motorola Moto G,../spec_data/motorola/Motorola Moto G.csv,20220808,20220808
+418,418,8,3,Motorola DEFY XT535,../spec_data/motorola/Motorola DEFY XT535.csv,20220808,20220808
+419,419,8,3,Motorola RAZR Maxx,../spec_data/motorola/Motorola RAZR Maxx.csv,20220808,20220808
+420,420,8,3,Motorola Atrix 2,../spec_data/motorola/Motorola Atrix 2.csv,20220808,20220808
+421,421,8,3,Motorola XT532,../spec_data/motorola/Motorola XT532.csv,20220808,20220808
+422,422,8,3,Motorola XT615,../spec_data/motorola/Motorola XT615.csv,20220808,20220808
+423,423,8,3,Motorola Pro+,../spec_data/motorola/Motorola Pro+.csv,20220808,20220808
+424,424,8,3,Motorola DEFY+,../spec_data/motorola/Motorola DEFY+.csv,20220808,20220808
+425,425,8,3,Motorola XT319,../spec_data/motorola/Motorola XT319.csv,20220808,20220808
+426,426,8,3,Motorola XT316,../spec_data/motorola/Motorola XT316.csv,20220808,20220808
+427,427,8,3,Motorola EX232,../spec_data/motorola/Motorola EX232.csv,20220808,20220808
+428,428,8,3,Motorola EX223,../spec_data/motorola/Motorola EX223.csv,20220808,20220808
+429,429,8,3,Motorola ATRIX,../spec_data/motorola/Motorola ATRIX.csv,20220808,20220808
+430,430,8,3,Motorola EX211,../spec_data/motorola/Motorola EX211.csv,20220808,20220808
+431,431,8,3,Motorola 明 A1680,../spec_data/motorola/Motorola 明 A1680.csv,20220808,20220808
+432,432,8,3,Motorola MILESTONE 2,../spec_data/motorola/Motorola MILESTONE 2.csv,20220808,20220808
+433,433,8,3,Motorola DEFY MB525,../spec_data/motorola/Motorola DEFY MB525.csv,20220808,20220808
+434,434,8,3,Motorola EX115,../spec_data/motorola/Motorola EX115.csv,20220808,20220808
+435,435,8,3,Motorola FlipOut MB511,../spec_data/motorola/Motorola FlipOut MB511.csv,20220808,20220808
+436,436,8,3,Motorola Quench XT5,../spec_data/motorola/Motorola Quench XT5.csv,20220808,20220808
+437,437,8,3,Motorola EX128,../spec_data/motorola/Motorola EX128.csv,20220808,20220808
+438,438,8,3,Motorola MILESTONE XT720,../spec_data/motorola/Motorola MILESTONE XT720.csv,20220808,20220808
+439,439,8,3,Motorola Quench XT3,../spec_data/motorola/Motorola Quench XT3.csv,20220808,20220808
+440,440,8,3,Motorola QUENCH,../spec_data/motorola/Motorola QUENCH.csv,20220808,20220808
+441,441,8,3,Motorola EX300,../spec_data/motorola/Motorola EX300.csv,20220808,20220808
+442,442,8,3,Motorola BACKFLIP ME600,../spec_data/motorola/Motorola BACKFLIP ME600.csv,20220808,20220808
+443,443,8,3,Motorola MILESTONE XT701,../spec_data/motorola/Motorola MILESTONE XT701.csv,20220808,20220808
+444,444,8,3,Motorola MILESTONE,../spec_data/motorola/Motorola MILESTONE.csv,20220808,20220808
+445,445,8,3,Motorola MOTOSURF A3100 黑金升級版,../spec_data/motorola/Motorola MOTOSURF A3100 黑金升級版.csv,20220808,20220808
+446,446,8,3,Motorola 明 A1210,../spec_data/motorola/Motorola 明 A1210.csv,20220808,20220808
+447,447,8,3,Motorola ZN300,../spec_data/motorola/Motorola ZN300.csv,20220808,20220808
+448,448,8,3,Motorola VE66,../spec_data/motorola/Motorola VE66.csv,20220808,20220808
+449,449,8,3,Motorola MOTOSURF A3100,../spec_data/motorola/Motorola MOTOSURF A3100.csv,20220808,20220808
+450,450,8,3,Motorola EM35,../spec_data/motorola/Motorola EM35.csv,20220808,20220808
+451,451,8,3,Motorola AURA,../spec_data/motorola/Motorola AURA.csv,20220808,20220808
+452,452,8,3,Motorola EM330,../spec_data/motorola/Motorola EM330.csv,20220808,20220808
+453,453,8,3,Motorola W156,../spec_data/motorola/Motorola W156.csv,20220808,20220808
+454,454,8,3,Motorola VE538,../spec_data/motorola/Motorola VE538.csv,20220808,20220808
+455,455,8,3,Motorola EM325,../spec_data/motorola/Motorola EM325.csv,20220808,20220808
+456,456,8,3,Motorola W396,../spec_data/motorola/Motorola W396.csv,20220808,20220808
+457,457,8,3,Motorola EM30,../spec_data/motorola/Motorola EM30.csv,20220808,20220808
+458,458,8,3,Motorola ZN200,../spec_data/motorola/Motorola ZN200.csv,20220808,20220808
+459,459,8,3,Motorola A810,../spec_data/motorola/Motorola A810.csv,20220808,20220808
+460,460,8,3,Motorola 明 A1600,../spec_data/motorola/Motorola 明 A1600.csv,20220808,20220808
+461,461,8,3,Motorola W388,../spec_data/motorola/Motorola W388.csv,20220808,20220808
+462,462,8,3,Motorola RAZR² V9 FERRARI,../spec_data/motorola/Motorola RAZR² V9 FERRARI.csv,20220808,20220808
+463,463,8,3,Motorola ZINE ZN5,../spec_data/motorola/Motorola ZINE ZN5.csv,20220808,20220808
+464,464,8,3,Motorola ROKR E8,../spec_data/motorola/Motorola ROKR E8.csv,20220808,20220808
+465,465,8,3,Motorola W270,../spec_data/motorola/Motorola W270.csv,20220808,20220808
+466,466,8,3,Motorola Z8 FERRARI,../spec_data/motorola/Motorola Z8 FERRARI.csv,20220808,20220808
+467,467,8,3,Motorola U9,../spec_data/motorola/Motorola U9.csv,20220808,20220808
+468,468,8,3,Motorola Q9h,../spec_data/motorola/Motorola Q9h.csv,20220808,20220808
+469,469,8,3,Motorola Z8,../spec_data/motorola/Motorola Z8.csv,20220808,20220808
+470,470,8,3,Motorola RAZR² V9,../spec_data/motorola/Motorola RAZR² V9.csv,20220808,20220808
+471,471,8,3,Motorola W218,../spec_data/motorola/Motorola W218.csv,20220808,20220808
+472,472,8,3,Motorola RAZR maxx V3,../spec_data/motorola/Motorola RAZR maxx V3.csv,20220808,20220808
+473,473,8,3,Motorola WX265,../spec_data/motorola/Motorola WX265.csv,20220808,20220808
+474,474,8,3,Motorola WX295,../spec_data/motorola/Motorola WX295.csv,20220808,20220808
+475,475,8,3,Motorola ES400,../spec_data/motorola/Motorola ES400.csv,20220808,20220808
+476,476,8,3,Motorola CHARM,../spec_data/motorola/Motorola CHARM.csv,20220808,20220808
+477,477,8,3,Motorola RIZR Z10,../spec_data/motorola/Motorola RIZR Z10.csv,20220808,20220808
+478,478,8,3,Motorola W7 Active Edition,../spec_data/motorola/Motorola W7 Active Edition.csv,20220808,20220808
+479,479,8,3,Motorola RAZR² V8 (2GB),../spec_data/motorola/Motorola RAZR² V8 (2GB).csv,20220808,20220808
+480,480,8,3,Motorola RAZR² V8 (金版),../spec_data/motorola/Motorola RAZR² V8 (金版).csv,20220808,20220808
+481,481,8,3,Motorola M1000,../spec_data/motorola/Motorola M1000.csv,20220808,20220808
+482,482,8,3,Motorola W208,../spec_data/motorola/Motorola W208.csv,20220808,20220808
+483,483,8,3,Motorola W230,../spec_data/motorola/Motorola W230.csv,20220808,20220808
+484,484,8,3,Motorola PEBL U6 (COLOR),../spec_data/motorola/Motorola PEBL U6 (COLOR).csv,20220808,20220808
+485,485,8,3,Motorola KRZR K1,../spec_data/motorola/Motorola KRZR K1.csv,20220808,20220808
+486,486,8,3,Motorola RAZR maxx V6,../spec_data/motorola/Motorola RAZR maxx V6.csv,20220808,20220808
+487,487,8,3,Motorola RIZR Z3,../spec_data/motorola/Motorola RIZR Z3.csv,20220808,20220808
+488,488,8,3,Motorola Cliq 2,../spec_data/motorola/Motorola Cliq 2.csv,20220808,20220808
+489,489,8,3,Motorola W220,../spec_data/motorola/Motorola W220.csv,20220808,20220808
+490,490,8,3,Motorola ROKR ZN50,../spec_data/motorola/Motorola ROKR ZN50.csv,20220808,20220808
+491,491,8,3,Motorola CLIQ (DEXT),../spec_data/motorola/Motorola CLIQ (DEXT).csv,20220808,20220808
+492,492,8,3,Motorola PRO,../spec_data/motorola/Motorola PRO.csv,20220808,20220808
+493,493,8,3,Motorola ROKR E6,../spec_data/motorola/Motorola ROKR E6.csv,20220808,20220808
+494,472,8,3,Motorola RAZR maxx V3,../spec_data/motorola/Motorola RAZR maxx V3.csv,20220808,20220808
+495,495,8,3,Motorola W375,../spec_data/motorola/Motorola W375.csv,20220808,20220808
+496,496,8,3,Motorola L6i,../spec_data/motorola/Motorola L6i.csv,20220808,20220808
+497,497,8,3,Motorola WILDER EX130,../spec_data/motorola/Motorola WILDER EX130.csv,20220808,20220808
+498,498,8,3,Motorola VE75,../spec_data/motorola/Motorola VE75.csv,20220808,20220808
+499,499,8,3,Motorola EM25,../spec_data/motorola/Motorola EM25.csv,20220808,20220808
+500,500,8,3,Motorola ROKR Z6,../spec_data/motorola/Motorola ROKR Z6.csv,20220808,20220808
+501,501,8,3,Motorola maxx K3,../spec_data/motorola/Motorola maxx K3.csv,20220808,20220808
+502,502,8,3,Motorola SLVR L72,../spec_data/motorola/Motorola SLVR L72.csv,20220808,20220808
+503,503,8,3,Motorola Q11,../spec_data/motorola/Motorola Q11.csv,20220808,20220808
+504,504,8,3,Motorola W510,../spec_data/motorola/Motorola W510.csv,20220808,20220808
+505,505,8,3,Motorola maxx V1100,../spec_data/motorola/Motorola maxx V1100.csv,20220808,20220808
+506,506,8,3,Motorola Milestone 3,../spec_data/motorola/Motorola Milestone 3.csv,20220808,20220808
+507,507,8,3,Motorola Motocubo A45,../spec_data/motorola/Motorola Motocubo A45.csv,20220808,20220808
+508,508,8,3,Motorola RAZR² V8,../spec_data/motorola/Motorola RAZR² V8.csv,20220808,20220808
+509,509,8,3,Motorola RAZR,../spec_data/motorola/Motorola RAZR.csv,20220808,20220808
+510,510,8,3,Motorla Razr 2019,../spec_data/motorola/Motorla Razr 2019.csv,20220808,20220808
+511,511,8,3,Motorola E1070,../spec_data/motorola/Motorola E1070.csv,20220808,20220808
+512,512,9,3,Nokia G21,../spec_data/nokia/Nokia G21.csv,20220808,20220808
+513,513,9,3,Nokia G50,../spec_data/nokia/Nokia G50.csv,20220808,20220808
+514,514,9,3,Nokia XR20,../spec_data/nokia/Nokia XR20.csv,20220808,20220808
+515,515,9,3,Nokia G20,../spec_data/nokia/Nokia G20.csv,20220808,20220808
+516,516,9,3,Nokia X10,../spec_data/nokia/Nokia X10.csv,20220808,20220808
+517,517,9,3,Nokia X20,../spec_data/nokia/Nokia X20.csv,20220808,20220808
+518,518,9,3,Nokia 1.4,../spec_data/nokia/Nokia 1.4.csv,20220808,20220808
+519,519,9,3,Nokia 5.4,../spec_data/nokia/Nokia 5.4.csv,20220808,20220808
+520,520,9,3,Nokia 3.4,../spec_data/nokia/Nokia 3.4.csv,20220808,20220808
+521,521,9,3,Nokia 2.4,../spec_data/nokia/Nokia 2.4.csv,20220808,20220808
+522,522,9,3,Nokia 8.3 5G,../spec_data/nokia/Nokia 8.3 5G.csv,20220808,20220808
+523,523,9,3,Nokia 5.3,../spec_data/nokia/Nokia 5.3.csv,20220808,20220808
+524,524,9,3,Nokia C2,../spec_data/nokia/Nokia C2.csv,20220808,20220808
+525,525,9,3,Nokia 800 Tough,../spec_data/nokia/Nokia 800 Tough.csv,20220808,20220808
+526,526,9,3,Nokia 7.2,../spec_data/nokia/Nokia 7.2.csv,20220808,20220808
+527,527,9,3,Nokia 2720 Flip,../spec_data/nokia/Nokia 2720 Flip.csv,20220808,20220808
+528,528,9,3,Nokia 3.2,../spec_data/nokia/Nokia 3.2.csv,20220808,20220808
+529,529,9,3,Nokia 4.2,../spec_data/nokia/Nokia 4.2.csv,20220808,20220808
+530,530,9,3,Nokia 9 PureView,../spec_data/nokia/Nokia 9 PureView.csv,20220808,20220808
+531,531,9,3,Nokia 8.1,../spec_data/nokia/Nokia 8.1.csv,20220808,20220808
+532,532,9,3,Nokia 3.1 Plus,../spec_data/nokia/Nokia 3.1 Plus.csv,20220808,20220808
+533,533,9,3,Nokia 7.1,../spec_data/nokia/Nokia 7.1.csv,20220808,20220808
+534,534,9,3,Nokia 6.1 Plus,../spec_data/nokia/Nokia 6.1 Plus.csv,20220808,20220808
+535,535,9,3,Nokia 5.1 Plus,../spec_data/nokia/Nokia 5.1 Plus.csv,20220808,20220808
+536,536,9,3,Nokia 8110 4G,../spec_data/nokia/Nokia 8110 4G.csv,20220808,20220808
+537,537,9,3,Nokia 1,../spec_data/nokia/Nokia 1.csv,20220808,20220808
+538,538,9,3,Nokia 7 Plus,../spec_data/nokia/Nokia 7 Plus.csv,20220808,20220808
+539,539,9,3,NOKIA 8 Sirocco,../spec_data/nokia/NOKIA 8 Sirocco.csv,20220808,20220808
+540,540,9,3,Nokia 6 2018,../spec_data/nokia/Nokia 6 2018.csv,20220808,20220808
+541,541,9,3,Nokia 5,../spec_data/nokia/Nokia 5.csv,20220808,20220808
+542,542,9,3,Nokia 3310 (2017) 3G,../spec_data/nokia/Nokia 3310 (2017) 3G.csv,20220808,20220808
+543,543,9,3,Nokia 7,../spec_data/nokia/Nokia 7.csv,20220808,20220808
+544,544,9,3,Nokia 8,../spec_data/nokia/Nokia 8.csv,20220808,20220808
+545,545,9,3,Nokia 3310 (2017),../spec_data/nokia/Nokia 3310 (2017).csv,20220808,20220808
+546,546,9,3,Nokia 6,../spec_data/nokia/Nokia 6.csv,20220808,20220808
+547,547,9,3,Nokia Lumia 830,../spec_data/nokia/Nokia Lumia 830.csv,20220808,20220808
+548,548,9,3,Nokia Lumia 735,../spec_data/nokia/Nokia Lumia 735.csv,20220808,20220808
+549,549,9,3,Nokia Lumia 730,../spec_data/nokia/Nokia Lumia 730.csv,20220808,20220808
+550,550,9,3,Nokia Lumia 530,../spec_data/nokia/Nokia Lumia 530.csv,20220808,20220808
+551,551,9,3,Nokia Lumia 636,../spec_data/nokia/Nokia Lumia 636.csv,20220808,20220808
+552,552,9,3,Microsoft Lumia 930,../spec_data/nokia/Microsoft Lumia 930.csv,20220808,20220808
+553,553,9,3,Nokia X2,../spec_data/nokia/Nokia X2.csv,20220808,20220808
+554,554,9,3,Nokia XL,../spec_data/nokia/Nokia XL.csv,20220808,20220808
+555,555,9,3,Nokia Lumia 630,../spec_data/nokia/Nokia Lumia 630.csv,20220808,20220808
+556,556,9,3,Nokia Asha 503,../spec_data/nokia/Nokia Asha 503.csv,20220808,20220808
+557,557,9,3,Nokia X,../spec_data/nokia/Nokia X.csv,20220808,20220808
+558,558,9,3,Nokia X+,../spec_data/nokia/Nokia X+.csv,20220808,20220808
+559,559,9,3,Nokia LUMIA 1520,../spec_data/nokia/Nokia LUMIA 1520.csv,20220808,20220808
+560,560,9,3,Nokia LUMIA 1320,../spec_data/nokia/Nokia LUMIA 1320.csv,20220808,20220808
+561,561,9,3,Nokia 515,../spec_data/nokia/Nokia 515.csv,20220808,20220808
+562,562,9,3,Nokia 208,../spec_data/nokia/Nokia 208.csv,20220808,20220808
+563,563,9,3,Nokia 106,../spec_data/nokia/Nokia 106.csv,20220808,20220808
+564,564,9,3,Nokia 107,../spec_data/nokia/Nokia 107.csv,20220808,20220808
+565,565,9,3,Nokia LUMIA 1020,../spec_data/nokia/Nokia LUMIA 1020.csv,20220808,20220808
+566,566,9,3,Nokia LUMIA 925,../spec_data/nokia/Nokia LUMIA 925.csv,20220808,20220808
+567,567,9,3,Nokia Asha 210,../spec_data/nokia/Nokia Asha 210.csv,20220808,20220808
+568,568,9,3,Nokia Lumia 720,../spec_data/nokia/Nokia Lumia 720.csv,20220808,20220808
+569,569,9,3,Nokia Lumia 520,../spec_data/nokia/Nokia Lumia 520.csv,20220808,20220808
+570,570,9,3,Nokia Asha 202,../spec_data/nokia/Nokia Asha 202.csv,20220808,20220808
+571,571,9,3,Nokia Lumia 525,../spec_data/nokia/Nokia Lumia 525.csv,20220808,20220808
+572,572,9,3,Nokia Asha 308,../spec_data/nokia/Nokia Asha 308.csv,20220808,20220808
+573,573,9,3,Nokia LUMIA 920,../spec_data/nokia/Nokia LUMIA 920.csv,20220808,20220808
+574,574,9,3,Nokia LUMIA 820,../spec_data/nokia/Nokia LUMIA 820.csv,20220808,20220808
+575,575,9,3,Nokia LUMIA 625,../spec_data/nokia/Nokia LUMIA 625.csv,20220808,20220808
+576,576,9,3,Nokia Asha 305,../spec_data/nokia/Nokia Asha 305.csv,20220808,20220808
+577,577,9,3,Nokia Asha 311,../spec_data/nokia/Nokia Asha 311.csv,20220808,20220808
+578,578,9,3,Nokia LUMIA 620,../spec_data/nokia/Nokia LUMIA 620.csv,20220808,20220808
+579,579,9,3,Nokia LUMIA 610,../spec_data/nokia/Nokia LUMIA 610.csv,20220808,20220808
+580,580,9,3,Nokia 808 PureView,../spec_data/nokia/Nokia 808 PureView.csv,20220808,20220808
+581,581,9,3,Nokia LUMIA 900,../spec_data/nokia/Nokia LUMIA 900.csv,20220808,20220808
+582,582,9,3,Nokia LUMIA 800,../spec_data/nokia/Nokia LUMIA 800.csv,20220808,20220808
+583,583,9,3,Nokia 500,../spec_data/nokia/Nokia 500.csv,20220808,20220808
+584,584,9,3,Nokia 700,../spec_data/nokia/Nokia 700.csv,20220808,20220808
+585,585,9,3,Nokia 600,../spec_data/nokia/Nokia 600.csv,20220808,20220808
+586,586,9,3,Nokia 701,../spec_data/nokia/Nokia 701.csv,20220808,20220808
+587,587,9,3,Nokia 603,../spec_data/nokia/Nokia 603.csv,20220808,20220808
+588,588,9,3,Nokia E6,../spec_data/nokia/Nokia E6.csv,20220808,20220808
+589,589,9,3,Nokia X1-01,../spec_data/nokia/Nokia X1-01.csv,20220808,20220808
+590,590,9,3,Nokia X7,../spec_data/nokia/Nokia X7.csv,20220808,20220808
+591,591,9,3,Nokia C2-00,../spec_data/nokia/Nokia C2-00.csv,20220808,20220808
+592,592,9,3,Nokia E7,../spec_data/nokia/Nokia E7.csv,20220808,20220808
+593,593,9,3,Nokia C6-01,../spec_data/nokia/Nokia C6-01.csv,20220808,20220808
+594,594,9,3,Nokia C3-01 Touch and Type,../spec_data/nokia/Nokia C3-01 Touch and Type.csv,20220808,20220808
+595,595,9,3,Nokia X5-01,../spec_data/nokia/Nokia X5-01.csv,20220808,20220808
+596,596,9,3,Nokia X3-02 Touch and Type,../spec_data/nokia/Nokia X3-02 Touch and Type.csv,20220808,20220808
+597,597,9,3,Nokia C7,../spec_data/nokia/Nokia C7.csv,20220808,20220808
+598,598,9,3,Nokia N8,../spec_data/nokia/Nokia N8.csv,20220808,20220808
+599,599,9,3,Nokia 5250,../spec_data/nokia/Nokia 5250.csv,20220808,20220808
+600,600,9,3,Nokia X2-00,../spec_data/nokia/Nokia X2-00.csv,20220808,20220808
+601,601,9,3,Nokia C1-00,../spec_data/nokia/Nokia C1-00.csv,20220808,20220808
+602,602,9,3,Nokia E5,../spec_data/nokia/Nokia E5.csv,20220808,20220808
+603,603,9,3,Nokia C6,../spec_data/nokia/Nokia C6.csv,20220808,20220808
+604,604,9,3,Nokia 3710 fold,../spec_data/nokia/Nokia 3710 fold.csv,20220808,20220808
+605,605,9,3,Nokia C5,../spec_data/nokia/Nokia C5.csv,20220808,20220808
+606,606,9,3,Nokia N900,../spec_data/nokia/Nokia N900.csv,20220808,20220808
+607,607,9,3,Nokia 6700 slide,../spec_data/nokia/Nokia 6700 slide.csv,20220808,20220808
+608,608,9,3,Nokia 2220 slide,../spec_data/nokia/Nokia 2220 slide.csv,20220808,20220808
+609,609,9,3,Nokia 6303i classic,../spec_data/nokia/Nokia 6303i classic.csv,20220808,20220808
+610,610,9,3,Nokia 7230,../spec_data/nokia/Nokia 7230.csv,20220808,20220808
+611,611,9,3,Nokia X6 (feature phone),../spec_data/nokia/Nokia X6 (feature phone).csv,20220808,20220808
+612,612,9,3,Nokia 5230,../spec_data/nokia/Nokia 5230.csv,20220808,20220808
+613,613,9,3,Nokia E72,../spec_data/nokia/Nokia E72.csv,20220808,20220808
+614,614,9,3,Nokia N97 mini,../spec_data/nokia/Nokia N97 mini.csv,20220808,20220808
+615,615,9,3,Nokia 6600i slide,../spec_data/nokia/Nokia 6600i slide.csv,20220808,20220808
+616,616,9,3,Nokia 6730 classic,../spec_data/nokia/Nokia 6730 classic.csv,20220808,20220808
+617,617,9,3,Nokia 5530 XpressMusic,../spec_data/nokia/Nokia 5530 XpressMusic.csv,20220808,20220808
+618,618,9,3,Nokia E52,../spec_data/nokia/Nokia E52.csv,20220808,20220808
+619,619,9,3,Nokia 6720 classic,../spec_data/nokia/Nokia 6720 classic.csv,20220808,20220808
+620,620,9,3,Nokia 6303 classic,../spec_data/nokia/Nokia 6303 classic.csv,20220808,20220808
+621,621,9,3,Nokia 6700 classic,../spec_data/nokia/Nokia 6700 classic.csv,20220808,20220808
+622,622,9,3,Nokia 5730 XpressMusic,../spec_data/nokia/Nokia 5730 XpressMusic.csv,20220808,20220808
+623,623,9,3,Nokia N86 8MP,../spec_data/nokia/Nokia N86 8MP.csv,20220808,20220808
+624,624,9,3,Nokia 5630 XpressMusic,../spec_data/nokia/Nokia 5630 XpressMusic.csv,20220808,20220808
+625,625,9,3,Nokia 6260 slide,../spec_data/nokia/Nokia 6260 slide.csv,20220808,20220808
+626,626,9,3,Nokia 6208 classic,../spec_data/nokia/Nokia 6208 classic.csv,20220808,20220808
+627,627,9,3,Nokia 8800 Diamond Arte,../spec_data/nokia/Nokia 8800 Diamond Arte.csv,20220808,20220808
+628,628,9,3,Nokia 5800 XpressMusic,../spec_data/nokia/Nokia 5800 XpressMusic.csv,20220808,20220808
+629,629,9,3,Nokia 7610 Supernova,../spec_data/nokia/Nokia 7610 Supernova.csv,20220808,20220808
+630,630,9,3,Nokia N79,../spec_data/nokia/Nokia N79.csv,20220808,20220808
+631,631,9,3,Nokia N85,../spec_data/nokia/Nokia N85.csv,20220808,20220808
+632,632,9,3,Nokia 5320 XpressMusic,../spec_data/nokia/Nokia 5320 XpressMusic.csv,20220808,20220808
+633,633,9,3,Nokia 2680 slide,../spec_data/nokia/Nokia 2680 slide.csv,20220808,20220808
+634,634,9,3,Nokia N96,../spec_data/nokia/Nokia N96.csv,20220808,20220808
+635,635,9,3,Nokia 6210 Navigator,../spec_data/nokia/Nokia 6210 Navigator.csv,20220808,20220808
+636,636,9,3,Nokia 5000,../spec_data/nokia/Nokia 5000.csv,20220808,20220808
+637,637,9,3,Nokia 7070 Prism,../spec_data/nokia/Nokia 7070 Prism.csv,20220808,20220808
+638,638,9,3,Nokia 7310 Supernova,../spec_data/nokia/Nokia 7310 Supernova.csv,20220808,20220808
+639,639,9,3,Nokia 5220 Xpress Music,../spec_data/nokia/Nokia 5220 Xpress Music.csv,20220808,20220808
+640,640,9,3,Nokia E66,../spec_data/nokia/Nokia E66.csv,20220808,20220808
+641,641,9,3,Nokia E71,../spec_data/nokia/Nokia E71.csv,20220808,20220808
+642,642,9,3,Nokia 6600 fold,../spec_data/nokia/Nokia 6600 fold.csv,20220808,20220808
+643,643,9,3,Nokia 6600 slide,../spec_data/nokia/Nokia 6600 slide.csv,20220808,20220808
+644,644,9,3,Nokia 3600 slide,../spec_data/nokia/Nokia 3600 slide.csv,20220808,20220808
+645,645,9,3,Nokia 6220 classic,../spec_data/nokia/Nokia 6220 classic.csv,20220808,20220808
+646,646,9,3,Nokia N78,../spec_data/nokia/Nokia N78.csv,20220808,20220808
+647,647,9,3,Nokia 2600 classic,../spec_data/nokia/Nokia 2600 classic.csv,20220808,20220808
+648,648,9,3,Nokia 1680,../spec_data/nokia/Nokia 1680.csv,20220808,20220808
+649,649,9,3,Nokia 8800 Sapphire Arte,../spec_data/nokia/Nokia 8800 Sapphire Arte.csv,20220808,20220808
+650,650,9,3,Nokia 1209,../spec_data/nokia/Nokia 1209.csv,20220808,20220808
+651,651,9,3,Nokia 3500 classic,../spec_data/nokia/Nokia 3500 classic.csv,20220808,20220808
+652,652,9,3,Nokia 5610 XpressMusic,../spec_data/nokia/Nokia 5610 XpressMusic.csv,20220808,20220808
+653,653,9,3,Nokia 5310 XpressMusic,../spec_data/nokia/Nokia 5310 XpressMusic.csv,20220808,20220808
+654,654,9,3,Nokia 6500 slide,../spec_data/nokia/Nokia 6500 slide.csv,20220808,20220808
+655,655,9,3,Nokia 6500 classic,../spec_data/nokia/Nokia 6500 classic.csv,20220808,20220808
+656,656,9,3,Nokia 7900 Prism,../spec_data/nokia/Nokia 7900 Prism.csv,20220808,20220808
+657,657,9,3,Nokia 2760,../spec_data/nokia/Nokia 2760.csv,20220808,20220808
+658,658,9,3,Nokia N95,../spec_data/nokia/Nokia N95.csv,20220808,20220808
+659,659,9,3,Nokia E65,../spec_data/nokia/Nokia E65.csv,20220808,20220808
+660,660,9,3,Nokia 6300,../spec_data/nokia/Nokia 6300.csv,20220808,20220808
+661,661,9,3,Nokia 6288,../spec_data/nokia/Nokia 6288.csv,20220808,20220808
+662,662,9,3,Nokia 6301,../spec_data/nokia/Nokia 6301.csv,20220808,20220808
+663,663,9,3,Nokia 5030 XpressRadio,../spec_data/nokia/Nokia 5030 XpressRadio.csv,20220808,20220808
+664,664,9,3,Nokia N93,../spec_data/nokia/Nokia N93.csv,20220808,20220808
+665,665,9,3,Nokia E51,../spec_data/nokia/Nokia E51.csv,20220808,20220808
+666,666,9,3,Nokia 5330 XpressMusic,../spec_data/nokia/Nokia 5330 XpressMusic.csv,20220808,20220808
+667,667,9,3,Nokia N73,../spec_data/nokia/Nokia N73.csv,20220808,20220808
+668,668,9,3,Nokia N72,../spec_data/nokia/Nokia N72.csv,20220808,20220808
+669,669,9,3,Nokia 8800 Gold Arte,../spec_data/nokia/Nokia 8800 Gold Arte.csv,20220808,20220808
+670,670,9,3,Nokia 2630,../spec_data/nokia/Nokia 2630.csv,20220808,20220808
+671,671,9,3,Nokia 2652,../spec_data/nokia/Nokia 2652.csv,20220808,20220808
+672,672,10,3,Nothing Phone (1),../spec_data/Nothing/Nothing Phone (1).csv,20220808,20220808
+673,672,10,3,Nothing Phone (1),../spec_data/Nothing/Nothing Phone (1).csv,20220808,20220808
+674,674,11,3,OnePlus 10 Pro,../spec_data/oneplus/OnePlus 10 Pro.csv,20220808,20220808
+675,675,11,3,OnePlus 9,../spec_data/oneplus/OnePlus 9.csv,20220808,20220808
+676,676,11,3,OnePlus 8T,../spec_data/oneplus/OnePlus 8T.csv,20220808,20220808
+677,677,11,3,OnePlus Nord,../spec_data/oneplus/OnePlus Nord.csv,20220808,20220808
+678,678,11,3,OnePlus 8,../spec_data/oneplus/OnePlus 8.csv,20220808,20220808
+679,679,11,3,OnePlus 8 Pro,../spec_data/oneplus/OnePlus 8 Pro.csv,20220808,20220808
+680,680,11,3,OnePlus 7,../spec_data/oneplus/OnePlus 7.csv,20220808,20220808
+681,681,11,3,OnePlus 7 Pro,../spec_data/oneplus/OnePlus 7 Pro.csv,20220808,20220808
+682,682,11,3,OnePlus 6T,../spec_data/oneplus/OnePlus 6T.csv,20220808,20220808
+683,683,11,3,OnePlus 6,../spec_data/oneplus/OnePlus 6.csv,20220808,20220808
+684,684,11,3,OnePlus 5T,../spec_data/oneplus/OnePlus 5T.csv,20220808,20220808
+685,685,11,3,OnePlus 5,../spec_data/oneplus/OnePlus 5.csv,20220808,20220808
+686,686,11,3,OnePlus 3T,../spec_data/oneplus/OnePlus 3T.csv,20220808,20220808
+687,687,11,3,OnePlus 3,../spec_data/oneplus/OnePlus 3.csv,20220808,20220808
+688,688,11,3,OnePlus 2,../spec_data/oneplus/OnePlus 2.csv,20220808,20220808
+689,689,11,3,OnePlus One,../spec_data/oneplus/OnePlus One.csv,20220808,20220808
+690,674,11,3,OnePlus 10 Pro,../spec_data/oneplus/OnePlus 10 Pro.csv,20220808,20220808
+691,675,11,3,OnePlus 9,../spec_data/oneplus/OnePlus 9.csv,20220808,20220808
+692,676,11,3,OnePlus 8T,../spec_data/oneplus/OnePlus 8T.csv,20220808,20220808
+693,677,11,3,OnePlus Nord,../spec_data/oneplus/OnePlus Nord.csv,20220808,20220808
+694,678,11,3,OnePlus 8,../spec_data/oneplus/OnePlus 8.csv,20220808,20220808
+695,679,11,3,OnePlus 8 Pro,../spec_data/oneplus/OnePlus 8 Pro.csv,20220808,20220808
+696,680,11,3,OnePlus 7,../spec_data/oneplus/OnePlus 7.csv,20220808,20220808
+697,681,11,3,OnePlus 7 Pro,../spec_data/oneplus/OnePlus 7 Pro.csv,20220808,20220808
+698,682,11,3,OnePlus 6T,../spec_data/oneplus/OnePlus 6T.csv,20220808,20220808
+699,683,11,3,OnePlus 6,../spec_data/oneplus/OnePlus 6.csv,20220808,20220808
+700,684,11,3,OnePlus 5T,../spec_data/oneplus/OnePlus 5T.csv,20220808,20220808
+701,685,11,3,OnePlus 5,../spec_data/oneplus/OnePlus 5.csv,20220808,20220808
+702,686,11,3,OnePlus 3T,../spec_data/oneplus/OnePlus 3T.csv,20220808,20220808
+703,687,11,3,OnePlus 3,../spec_data/oneplus/OnePlus 3.csv,20220808,20220808
+704,688,11,3,OnePlus 2,../spec_data/oneplus/OnePlus 2.csv,20220808,20220808
+705,689,11,3,OnePlus One,../spec_data/oneplus/OnePlus One.csv,20220808,20220808
+706,706,12,3,Oppo A77 5G,../spec_data/oppo/Oppo A77 5G.csv,20220808,20220808
+707,707,12,3,Oppo Find X5 Pro,../spec_data/oppo/Oppo Find X5 Pro.csv,20220808,20220808
+708,708,12,3,Oppo Reno 7 Pro,../spec_data/oppo/Oppo Reno 7 Pro.csv,20220808,20220808
+709,709,12,3,Oppo Reno 7,../spec_data/oppo/Oppo Reno 7.csv,20220808,20220808
+710,710,12,3,Oppo Reno6 5G,../spec_data/oppo/Oppo Reno6 5G.csv,20220808,20220808
+711,711,12,3,Oppo Reno6 Pro 5G,../spec_data/oppo/Oppo Reno6 Pro 5G.csv,20220808,20220808
+712,712,12,3,OPPO Find X3,../spec_data/oppo/OPPO Find X3.csv,20220808,20220808
+713,713,12,3,OPPO Find X3 Pro,../spec_data/oppo/OPPO Find X3 Pro.csv,20220808,20220808
+714,714,12,3,Oppo Reno5 5G,../spec_data/oppo/Oppo Reno5 5G.csv,20220808,20220808
+715,715,12,3,Oppo Reno5 Pro 5G,../spec_data/oppo/Oppo Reno5 Pro 5G.csv,20220808,20220808
+716,716,12,3,Oppo A72,../spec_data/oppo/Oppo A72.csv,20220808,20220808
+717,717,12,3,Oppo Reno 4 Pro,../spec_data/oppo/Oppo Reno 4 Pro.csv,20220808,20220808
+718,718,12,3,Oppo Reno4 Pro 5G,../spec_data/oppo/Oppo Reno4 Pro 5G.csv,20220808,20220808
+719,719,12,3,Oppo Reno4Z 5G,../spec_data/oppo/Oppo Reno4Z 5G.csv,20220808,20220808
+720,720,12,3,Oppo Reno4 5G,../spec_data/oppo/Oppo Reno4 5G.csv,20220808,20220808
+721,721,12,3,Oppo Find X2 Pro,../spec_data/oppo/Oppo Find X2 Pro.csv,20220808,20220808
+722,722,12,3,oppo A9 (2020),../spec_data/oppo/oppo A9 (2020).csv,20220808,20220808
+723,723,12,3,Oppo Reno2 Z,../spec_data/oppo/Oppo Reno2 Z.csv,20220808,20220808
+724,724,12,3,Oppo Reno2,../spec_data/oppo/Oppo Reno2.csv,20220808,20220808
+725,725,12,3,Oppo Reno5 Z,../spec_data/oppo/Oppo Reno5 Z.csv,20220808,20220808
+726,706,12,3,Oppo A77 5G,../spec_data/oppo/Oppo A77 5G.csv,20220808,20220808
+727,707,12,3,Oppo Find X5 Pro,../spec_data/oppo/Oppo Find X5 Pro.csv,20220808,20220808
+728,708,12,3,Oppo Reno 7 Pro,../spec_data/oppo/Oppo Reno 7 Pro.csv,20220808,20220808
+729,709,12,3,Oppo Reno 7,../spec_data/oppo/Oppo Reno 7.csv,20220808,20220808
+730,710,12,3,Oppo Reno6 5G,../spec_data/oppo/Oppo Reno6 5G.csv,20220808,20220808
+731,711,12,3,Oppo Reno6 Pro 5G,../spec_data/oppo/Oppo Reno6 Pro 5G.csv,20220808,20220808
+732,712,12,3,OPPO Find X3,../spec_data/oppo/OPPO Find X3.csv,20220808,20220808
+733,713,12,3,OPPO Find X3 Pro,../spec_data/oppo/OPPO Find X3 Pro.csv,20220808,20220808
+734,714,12,3,Oppo Reno5 5G,../spec_data/oppo/Oppo Reno5 5G.csv,20220808,20220808
+735,715,12,3,Oppo Reno5 Pro 5G,../spec_data/oppo/Oppo Reno5 Pro 5G.csv,20220808,20220808
+736,716,12,3,Oppo A72,../spec_data/oppo/Oppo A72.csv,20220808,20220808
+737,717,12,3,Oppo Reno 4 Pro,../spec_data/oppo/Oppo Reno 4 Pro.csv,20220808,20220808
+738,718,12,3,Oppo Reno4 Pro 5G,../spec_data/oppo/Oppo Reno4 Pro 5G.csv,20220808,20220808
+739,719,12,3,Oppo Reno4Z 5G,../spec_data/oppo/Oppo Reno4Z 5G.csv,20220808,20220808
+740,720,12,3,Oppo Reno4 5G,../spec_data/oppo/Oppo Reno4 5G.csv,20220808,20220808
+741,721,12,3,Oppo Find X2 Pro,../spec_data/oppo/Oppo Find X2 Pro.csv,20220808,20220808
+742,722,12,3,oppo A9 (2020),../spec_data/oppo/oppo A9 (2020).csv,20220808,20220808
+743,723,12,3,Oppo Reno2 Z,../spec_data/oppo/Oppo Reno2 Z.csv,20220808,20220808
+744,724,12,3,Oppo Reno2,../spec_data/oppo/Oppo Reno2.csv,20220808,20220808
+745,725,12,3,Oppo Reno5 Z,../spec_data/oppo/Oppo Reno5 Z.csv,20220808,20220808
+746,746,13,3,realme X50 5G,../spec_data/realne/realme X50 5G.csv,20220808,20220808
+747,747,13,3,realme7 5G,../spec_data/realne/realme7 5G.csv,20220808,20220808
+748,746,13,3,realme X50 5G,../spec_data/realne/realme X50 5G.csv,20220808,20220808
+749,747,13,3,realme7 5G,../spec_data/realne/realme7 5G.csv,20220808,20220808
+750,750,14,3,Samsung Galaxy A53 5G,../spec_data/samsung/Samsung Galaxy A53 5G.csv,20220808,20220808
+751,751,14,3,Samsung Galaxy A33 5G,../spec_data/samsung/Samsung Galaxy A33 5G.csv,20220808,20220808
+752,752,14,3,Samsung Galaxy M33 5G,../spec_data/samsung/Samsung Galaxy M33 5G.csv,20220808,20220808
+753,753,14,3,Samsung Galaxy S22,../spec_data/samsung/Samsung Galaxy S22.csv,20220808,20220808
+754,754,14,3,Samsung Galaxy S22+,../spec_data/samsung/Samsung Galaxy S22+.csv,20220808,20220808
+755,755,14,3,Samsung Galaxy S22 Ultra,../spec_data/samsung/Samsung Galaxy S22 Ultra.csv,20220808,20220808
+756,756,14,3,Samsung Galaxy S21 FE,../spec_data/samsung/Samsung Galaxy S21 FE.csv,20220808,20220808
+757,757,14,3,Samsung Galaxy Z Flip 3,../spec_data/samsung/Samsung Galaxy Z Flip 3.csv,20220808,20220808
+758,758,14,3,Samsung Galaxy Z Fold 3,../spec_data/samsung/Samsung Galaxy Z Fold 3.csv,20220808,20220808
+759,759,14,3,Samsung Galaxy A22 5G,../spec_data/samsung/Samsung Galaxy A22 5G.csv,20220808,20220808
+760,760,14,3,Samsung Galaxy Xcover 5,../spec_data/samsung/Samsung Galaxy Xcover 5.csv,20220808,20220808
+761,761,14,3,Samsung Galaxy A52 5G,../spec_data/samsung/Samsung Galaxy A52 5G.csv,20220808,20220808
+762,762,14,3,Samsung Galaxy A32 5G,../spec_data/samsung/Samsung Galaxy A32 5G.csv,20220808,20220808
+763,763,14,3,Samsung Galaxy S21,../spec_data/samsung/Samsung Galaxy S21.csv,20220808,20220808
+764,764,14,3,Samsung Galaxy S21+,../spec_data/samsung/Samsung Galaxy S21+.csv,20220808,20220808
+765,765,14,3,Samsung Galaxy S21 Ultra,../spec_data/samsung/Samsung Galaxy S21 Ultra.csv,20220808,20220808
+766,766,14,3,Samsung Galaxy A12,../spec_data/samsung/Samsung Galaxy A12.csv,20220808,20220808
+767,767,14,3,Samsung Galaxy A42 5G,../spec_data/samsung/Samsung Galaxy A42 5G.csv,20220808,20220808
+768,768,14,3,Samsung Galaxy S20 FE 5G,../spec_data/samsung/Samsung Galaxy S20 FE 5G.csv,20220808,20220808
+769,769,14,3,Samsung Galaxy Z Fold 2 5G,../spec_data/samsung/Samsung Galaxy Z Fold 2 5G.csv,20220808,20220808
+770,770,14,3,Samsung Galaxy Note 20,../spec_data/samsung/Samsung Galaxy Note 20.csv,20220808,20220808
+771,771,14,3,Samsung Galaxy Note 20 Ultra,../spec_data/samsung/Samsung Galaxy Note 20 Ultra.csv,20220808,20220808
+772,772,14,3,Samsung Galaxy Z Flip 5G,../spec_data/samsung/Samsung Galaxy Z Flip 5G.csv,20220808,20220808
+773,773,14,3,Samsung Galaxy A21s,../spec_data/samsung/Samsung Galaxy A21s.csv,20220808,20220808
+774,774,14,3,Samsung Galaxy S20+,../spec_data/samsung/Samsung Galaxy S20+.csv,20220808,20220808
+775,775,14,3,Samsung Galaxy S20 Ultra,../spec_data/samsung/Samsung Galaxy S20 Ultra.csv,20220808,20220808
+776,776,14,3,Samsung Galaxy S20,../spec_data/samsung/Samsung Galaxy S20.csv,20220808,20220808
+777,777,14,3,Samsung Galaxy A31,../spec_data/samsung/Samsung Galaxy A31.csv,20220808,20220808
+778,778,14,3,Samsung Galaxy Note 10 lite,../spec_data/samsung/Samsung Galaxy Note 10 lite.csv,20220808,20220808
+779,779,14,3,Samsung Galaxy Z Flip,../spec_data/samsung/Samsung Galaxy Z Flip.csv,20220808,20220808
+780,780,14,3,Samsung Galaxy A71,../spec_data/samsung/Samsung Galaxy A71.csv,20220808,20220808
+781,781,14,3,Samsung Galaxy A51,../spec_data/samsung/Samsung Galaxy A51.csv,20220808,20220808
+782,782,14,3,Samsung Galaxy Fold,../spec_data/samsung/Samsung Galaxy Fold.csv,20220808,20220808
+783,783,14,3,Samsung Galaxy A50s,../spec_data/samsung/Samsung Galaxy A50s.csv,20220808,20220808
+784,784,14,3,Samsung Galaxy Note 10+,../spec_data/samsung/Samsung Galaxy Note 10+.csv,20220808,20220808
+785,785,14,3,Samsung Galaxy Note 10,../spec_data/samsung/Samsung Galaxy Note 10.csv,20220808,20220808
+786,786,14,3,Samsung Galaxy A80,../spec_data/samsung/Samsung Galaxy A80.csv,20220808,20220808
+787,787,14,3,Samsung Galaxy A60,../spec_data/samsung/Samsung Galaxy A60.csv,20220808,20220808
+788,788,14,3,Samsung Galaxy A70,../spec_data/samsung/Samsung Galaxy A70.csv,20220808,20220808
+789,789,14,3,Samsung Galaxy A20,../spec_data/samsung/Samsung Galaxy A20.csv,20220808,20220808
+790,790,14,3,Samsung Galaxy A40s,../spec_data/samsung/Samsung Galaxy A40s.csv,20220808,20220808
+791,791,14,3,Samsung Galaxy S10e,../spec_data/samsung/Samsung Galaxy S10e.csv,20220808,20220808
+792,792,14,3,Samsung Galaxy S10,../spec_data/samsung/Samsung Galaxy S10.csv,20220808,20220808
+793,793,14,3,Samsung Galaxy S10+,../spec_data/samsung/Samsung Galaxy S10+.csv,20220808,20220808
+794,794,14,3,Samsung Galaxy A8s,../spec_data/samsung/Samsung Galaxy A8s.csv,20220808,20220808
+795,795,14,3,Samsung Galaxy A7 2018,../spec_data/samsung/Samsung Galaxy A7 2018.csv,20220808,20220808
+796,796,14,3,Samsung Galaxy A9 2018,../spec_data/samsung/Samsung Galaxy A9 2018.csv,20220808,20220808
+797,797,14,3,Samsung Galaxy J4+,../spec_data/samsung/Samsung Galaxy J4+.csv,20220808,20220808
+798,798,14,3,Samsung Galaxy Note 9,../spec_data/samsung/Samsung Galaxy Note 9.csv,20220808,20220808
+799,799,14,3,Samsung Galaxy J6,../spec_data/samsung/Samsung Galaxy J6.csv,20220808,20220808
+800,800,14,3,Samsung Galaxy A6+,../spec_data/samsung/Samsung Galaxy A6+.csv,20220808,20220808
+801,801,14,3,Samsung Galaxy A8 Star,../spec_data/samsung/Samsung Galaxy A8 Star.csv,20220808,20220808
+802,802,14,3,Samsung Galaxy S9,../spec_data/samsung/Samsung Galaxy S9.csv,20220808,20220808
+803,803,14,3,Samsung Galaxy S9+,../spec_data/samsung/Samsung Galaxy S9+.csv,20220808,20220808
+804,804,14,3,Samsung Galaxy A8+ (2018),../spec_data/samsung/Samsung Galaxy A8+ (2018).csv,20220808,20220808
+805,805,14,3,Samsung Galaxy C8,../spec_data/samsung/Samsung Galaxy C8.csv,20220808,20220808
+806,806,14,3,Samsung Galaxy Note 8,../spec_data/samsung/Samsung Galaxy Note 8.csv,20220808,20220808
+807,807,14,3,Samsung Galaxy S8,../spec_data/samsung/Samsung Galaxy S8.csv,20220808,20220808
+808,808,14,3,Samsung Galaxy S8+,../spec_data/samsung/Samsung Galaxy S8+.csv,20220808,20220808
+809,809,14,3,Samsung Galaxy C7 Pro,../spec_data/samsung/Samsung Galaxy C7 Pro.csv,20220808,20220808
+810,810,14,3,Samsung Galaxy C5 Pro,../spec_data/samsung/Samsung Galaxy C5 Pro.csv,20220808,20220808
+811,811,14,3,Samsung Galaxy A3 2017,../spec_data/samsung/Samsung Galaxy A3 2017.csv,20220808,20220808
+812,812,14,3,Samsung Galaxy A5 2017,../spec_data/samsung/Samsung Galaxy A5 2017.csv,20220808,20220808
+813,813,14,3,Samsung Galaxy A7 2017,../spec_data/samsung/Samsung Galaxy A7 2017.csv,20220808,20220808
+814,814,14,3,Samsung Galaxy C9 Pro,../spec_data/samsung/Samsung Galaxy C9 Pro.csv,20220808,20220808
+815,815,14,3,Samsung Galaxy J5 Prime,../spec_data/samsung/Samsung Galaxy J5 Prime.csv,20220808,20220808
+816,816,14,3,Samsung Galaxy J7 Prime,../spec_data/samsung/Samsung Galaxy J7 Prime.csv,20220808,20220808
+817,817,14,3,Samsung Galaxy Note 7,../spec_data/samsung/Samsung Galaxy Note 7.csv,20220808,20220808
+818,818,14,3,Samsung Galaxy C7,../spec_data/samsung/Samsung Galaxy C7.csv,20220808,20220808
+819,819,14,3,Samsung Galaxy C5,../spec_data/samsung/Samsung Galaxy C5.csv,20220808,20220808
+820,820,14,3,Samsung Galaxy S7,../spec_data/samsung/Samsung Galaxy S7.csv,20220808,20220808
+821,821,14,3,Samsung Galaxy S7 Edge,../spec_data/samsung/Samsung Galaxy S7 Edge.csv,20220808,20220808
+822,822,14,3,Samsung Galaxy A9 2016,../spec_data/samsung/Samsung Galaxy A9 2016.csv,20220808,20220808
+823,823,14,3,Samsung Galaxy A5 2016,../spec_data/samsung/Samsung Galaxy A5 2016.csv,20220808,20220808
+824,824,14,3,Samsung Galaxy A7 2016,../spec_data/samsung/Samsung Galaxy A7 2016.csv,20220808,20220808
+825,825,14,3,Samsung Galaxy Note 5,../spec_data/samsung/Samsung Galaxy Note 5.csv,20220808,20220808
+826,826,14,3,Samsung Galaxy S6 Edge+,../spec_data/samsung/Samsung Galaxy S6 Edge+.csv,20220808,20220808
+827,827,14,3,Samsung Galaxy A8,../spec_data/samsung/Samsung Galaxy A8.csv,20220808,20220808
+828,828,14,3,Samsung Galaxy J5,../spec_data/samsung/Samsung Galaxy J5.csv,20220808,20220808
+829,829,14,3,Samsung Galaxy J7 (2016),../spec_data/samsung/Samsung Galaxy J7 (2016).csv,20220808,20220808
+830,830,14,3,Samsung Galaxy S6,../spec_data/samsung/Samsung Galaxy S6.csv,20220808,20220808
+831,831,14,3,Samsung Galaxy S6 Edge,../spec_data/samsung/Samsung Galaxy S6 Edge.csv,20220808,20220808
+832,832,14,3,Samsung Galaxy J1,../spec_data/samsung/Samsung Galaxy J1.csv,20220808,20220808
+833,833,14,3,Samsung Galaxy A7,../spec_data/samsung/Samsung Galaxy A7.csv,20220808,20220808
+834,834,14,3,Samsung Galaxy E7,../spec_data/samsung/Samsung Galaxy E7.csv,20220808,20220808
+835,835,14,3,Samsung Galaxy A3,../spec_data/samsung/Samsung Galaxy A3.csv,20220808,20220808
+836,836,14,3,Samsung Galaxy A5,../spec_data/samsung/Samsung Galaxy A5.csv,20220808,20220808
+837,837,14,3,Samsung Galaxy Note 4 雙咭版,../spec_data/samsung/Samsung Galaxy Note 4 雙咭版.csv,20220808,20220808
+838,838,14,3,Samsung Galaxy Note Edge,../spec_data/samsung/Samsung Galaxy Note Edge.csv,20220808,20220808
+839,839,14,3,Samsung Galaxy Note 4,../spec_data/samsung/Samsung Galaxy Note 4.csv,20220808,20220808
+840,840,14,3,Samsung Galaxy Mega 2,../spec_data/samsung/Samsung Galaxy Mega 2.csv,20220808,20220808
+841,841,14,3,Samsung Galaxy Alpha,../spec_data/samsung/Samsung Galaxy Alpha.csv,20220808,20220808
+842,842,14,3,Samsung Galaxy Grand Prime,../spec_data/samsung/Samsung Galaxy Grand Prime.csv,20220808,20220808
+843,843,14,3,Samsung Galaxy Grand 2,../spec_data/samsung/Samsung Galaxy Grand 2.csv,20220808,20220808
+844,844,14,3,Samsung Galaxy S5,../spec_data/samsung/Samsung Galaxy S5.csv,20220808,20220808
+845,845,14,3,Samsung Galaxy Grand Neo,../spec_data/samsung/Samsung Galaxy Grand Neo.csv,20220808,20220808
+846,846,14,3,Samsung Galaxy Star Trios,../spec_data/samsung/Samsung Galaxy Star Trios.csv,20220808,20220808
+847,847,14,3,Samsung Galaxy Note 3 Neo,../spec_data/samsung/Samsung Galaxy Note 3 Neo.csv,20220808,20220808
+848,848,14,3,Samsung Galaxy Note 3 Neo Duo,../spec_data/samsung/Samsung Galaxy Note 3 Neo Duo.csv,20220808,20220808
+849,849,14,3,Samsung Galaxy Golden,../spec_data/samsung/Samsung Galaxy Golden.csv,20220808,20220808
+850,850,14,3,Samsung Galaxy Express 2,../spec_data/samsung/Samsung Galaxy Express 2.csv,20220808,20220808
+851,851,14,3,Samsung Galaxy Trend Lite,../spec_data/samsung/Samsung Galaxy Trend Lite.csv,20220808,20220808
+852,852,14,3,Samsung Galaxy Note 3 3G,../spec_data/samsung/Samsung Galaxy Note 3 3G.csv,20220808,20220808
+853,853,14,3,Samsung Galaxy Note 3 LTE,../spec_data/samsung/Samsung Galaxy Note 3 LTE.csv,20220808,20220808
+854,854,14,3,Samsung Galaxy Round,../spec_data/samsung/Samsung Galaxy Round.csv,20220808,20220808
+855,855,14,3,Samsung Galaxy Ace 3 3G,../spec_data/samsung/Samsung Galaxy Ace 3 3G.csv,20220808,20220808
+856,856,14,3,Samsung Galaxy S5 mini,../spec_data/samsung/Samsung Galaxy S5 mini.csv,20220808,20220808
+857,857,14,3,Samsung Galaxy S4 Zoom,../spec_data/samsung/Samsung Galaxy S4 Zoom.csv,20220808,20220808
+858,858,14,3,Samsung Galaxy Ace 3 Duo,../spec_data/samsung/Samsung Galaxy Ace 3 Duo.csv,20220808,20220808
+859,859,14,3,Samsung Galaxy Ace 3 4G LTE,../spec_data/samsung/Samsung Galaxy Ace 3 4G LTE.csv,20220808,20220808
+860,860,14,3,Samsung Galaxy Core,../spec_data/samsung/Samsung Galaxy Core.csv,20220808,20220808
+861,861,14,3,Samsung Galaxy S4 mini,../spec_data/samsung/Samsung Galaxy S4 mini.csv,20220808,20220808
+862,862,14,3,Samsung Galaxy Mega 5.8,../spec_data/samsung/Samsung Galaxy Mega 5.8.csv,20220808,20220808
+863,863,14,3,Samsung Galaxy Mega 6.3,../spec_data/samsung/Samsung Galaxy Mega 6.3.csv,20220808,20220808
+864,864,14,3,Samsung Galaxy Win,../spec_data/samsung/Samsung Galaxy Win.csv,20220808,20220808
+865,865,14,3,Samsung Galaxy Express,../spec_data/samsung/Samsung Galaxy Express.csv,20220808,20220808
+866,866,14,3,Samsung Galaxy S4 LTE,../spec_data/samsung/Samsung Galaxy S4 LTE.csv,20220808,20220808
+867,867,14,3,Samsung Galaxy S4 3G,../spec_data/samsung/Samsung Galaxy S4 3G.csv,20220808,20220808
+868,868,14,3,Samsung ATIV S,../spec_data/samsung/Samsung ATIV S.csv,20220808,20220808
+869,869,14,3,Samsung Galaxy S II Plus,../spec_data/samsung/Samsung Galaxy S II Plus.csv,20220808,20220808
+870,870,14,3,Samsung Galaxy S3 Neo+,../spec_data/samsung/Samsung Galaxy S3 Neo+.csv,20220808,20220808
+871,871,14,3,Samsung Galaxy Premier,../spec_data/samsung/Samsung Galaxy Premier.csv,20220808,20220808
+872,872,14,3,Samsung Galaxy S III Mini,../spec_data/samsung/Samsung Galaxy S III Mini.csv,20220808,20220808
+873,873,14,3,Samsung Galaxy S Duos,../spec_data/samsung/Samsung Galaxy S Duos.csv,20220808,20220808
+874,874,14,3,Samsung Galaxy Note 2 LTE,../spec_data/samsung/Samsung Galaxy Note 2 LTE.csv,20220808,20220808
+875,875,14,3,Samsung Galaxy S III LTE (S3 LTE),../spec_data/samsung/Samsung Galaxy S III LTE (S3 LTE).csv,20220808,20220808
+876,876,14,3,Samsung Galaxy Note 2,../spec_data/samsung/Samsung Galaxy Note 2.csv,20220808,20220808
+877,877,14,3,Samsung Galaxy Note LTE,../spec_data/samsung/Samsung Galaxy Note LTE.csv,20220808,20220808
+878,878,14,3,Samsung Galaxy Ace Duos,../spec_data/samsung/Samsung Galaxy Ace Duos.csv,20220808,20220808
+879,878,14,3,Samsung Galaxy Ace Duos,../spec_data/samsung/Samsung Galaxy Ace Duos.csv,20220808,20220808
+880,880,14,3,Samsung Galaxy Ace 2,../spec_data/samsung/Samsung Galaxy Ace 2.csv,20220808,20220808
+881,881,14,3,Samsung Galaxy Chat,../spec_data/samsung/Samsung Galaxy Chat.csv,20220808,20220808
+882,882,14,3,Samsung Galaxy S3,../spec_data/samsung/Samsung Galaxy S3.csv,20220808,20220808
+883,883,14,3,Samsung Galaxy S Advance,../spec_data/samsung/Samsung Galaxy S Advance.csv,20220808,20220808
+884,884,14,3,Samsung Galaxy Mini 2,../spec_data/samsung/Samsung Galaxy Mini 2.csv,20220808,20220808
+885,885,14,3,Samsung Galaxy Pocket,../spec_data/samsung/Samsung Galaxy Pocket.csv,20220808,20220808
+886,886,14,3,Samsung Galaxy Beam,../spec_data/samsung/Samsung Galaxy Beam.csv,20220808,20220808
+887,887,14,3,Samsung Galaxy Tab 2 10.1,../spec_data/samsung/Samsung Galaxy Tab 2 10.1.csv,20220808,20220808
+888,888,14,3,Samsung Galaxy Tab 2 7.0,../spec_data/samsung/Samsung Galaxy Tab 2 7.0.csv,20220808,20220808
+889,889,14,3,Samsung Galaxy Tab 8.9 LTE,../spec_data/samsung/Samsung Galaxy Tab 8.9 LTE.csv,20220808,20220808
+890,890,14,3,Samsung Galaxy S II LTE,../spec_data/samsung/Samsung Galaxy S II LTE.csv,20220808,20220808
+891,891,14,3,Samsung Galaxy Ace Plus,../spec_data/samsung/Samsung Galaxy Ace Plus.csv,20220808,20220808
+892,892,14,3,Samsung Galaxy Nexus 3G,../spec_data/samsung/Samsung Galaxy Nexus 3G.csv,20220808,20220808
+893,893,14,3,Samsung Galaxy Tab 7.7 3G,../spec_data/samsung/Samsung Galaxy Tab 7.7 3G.csv,20220808,20220808
+894,894,14,3,Samsung Galaxy Tab 7.0 Plus,../spec_data/samsung/Samsung Galaxy Tab 7.0 Plus.csv,20220808,20220808
+895,895,14,3,Samsung Galaxy Note,../spec_data/samsung/Samsung Galaxy Note.csv,20220808,20220808
+896,896,14,3,Samsung Galaxy R,../spec_data/samsung/Samsung Galaxy R.csv,20220808,20220808
+897,897,14,3,Samsung Galaxy Y Pro,../spec_data/samsung/Samsung Galaxy Y Pro.csv,20220808,20220808
+898,898,14,3,Samsung Galaxy W,../spec_data/samsung/Samsung Galaxy W.csv,20220808,20220808
+899,899,14,3,Samsung Galaxy M Pro,../spec_data/samsung/Samsung Galaxy M Pro.csv,20220808,20220808
+900,900,14,3,Samsung Galaxy Y,../spec_data/samsung/Samsung Galaxy Y.csv,20220808,20220808
+901,901,14,3,Samsung Galaxy S Plus I9001,../spec_data/samsung/Samsung Galaxy S Plus I9001.csv,20220808,20220808
+902,902,14,3,Samsung Galaxy S II I9100,../spec_data/samsung/Samsung Galaxy S II I9100.csv,20220808,20220808
+903,903,14,3,Samsung Champ DUOS,../spec_data/samsung/Samsung Champ DUOS.csv,20220808,20220808
+904,904,14,3,Samsung Galaxy Gio S5660,../spec_data/samsung/Samsung Galaxy Gio S5660.csv,20220808,20220808
+905,905,14,3,Samsung Google Nexus S i9023,../spec_data/samsung/Samsung Google Nexus S i9023.csv,20220808,20220808
+906,906,14,3,Samsung Galaxy SL I9003,../spec_data/samsung/Samsung Galaxy SL I9003.csv,20220808,20220808
+907,907,14,3,Samsung Galaxy Pro,../spec_data/samsung/Samsung Galaxy Pro.csv,20220808,20220808
+908,908,14,3,Samsung Galaxy Ace S5830,../spec_data/samsung/Samsung Galaxy Ace S5830.csv,20220808,20220808
+909,909,14,3,Samsung Galaxy Mini S5570,../spec_data/samsung/Samsung Galaxy Mini S5570.csv,20220808,20220808
+910,910,15,3,Sony Xperia 10 IV,../spec_data/sony/Sony Xperia 10 IV.csv,20220808,20220808
+911,911,15,3,Sony Xperia 1 IV,../spec_data/sony/Sony Xperia 1 IV.csv,20220808,20220808
+912,912,15,3,Sony Xperia Pro-I,../spec_data/sony/Sony Xperia Pro-I.csv,20220808,20220808
+913,913,15,3,Sony Xperia 1 III,../spec_data/sony/Sony Xperia 1 III.csv,20220808,20220808
+914,914,15,3,Sony Xperia 5 III,../spec_data/sony/Sony Xperia 5 III.csv,20220808,20220808
+915,915,15,3,Sony Xperia 10 III,../spec_data/sony/Sony Xperia 10 III.csv,20220808,20220808
+916,916,15,3,Sony Xperia 5 II,../spec_data/sony/Sony Xperia 5 II.csv,20220808,20220808
+917,917,15,3,Sony Xperia 1 II,../spec_data/sony/Sony Xperia 1 II.csv,20220808,20220808
+918,918,15,3,Sony Xperia 5,../spec_data/sony/Sony Xperia 5.csv,20220808,20220808
+919,919,15,3,Sony Xperia 1,../spec_data/sony/Sony Xperia 1.csv,20220808,20220808
+920,920,15,3,Sony Xperia 10 II,../spec_data/sony/Sony Xperia 10 II.csv,20220808,20220808
+921,921,15,3,Sony Xperia L3,../spec_data/sony/Sony Xperia L3.csv,20220808,20220808
+922,922,15,3,Sony Xperia 10,../spec_data/sony/Sony Xperia 10.csv,20220808,20220808
+923,923,15,3,Sony Xperia 10 Plus,../spec_data/sony/Sony Xperia 10 Plus.csv,20220808,20220808
+924,924,15,3,Sony Xperia XZ3,../spec_data/sony/Sony Xperia XZ3.csv,20220808,20220808
+925,925,15,3,Sony Xperia XA2 Plus,../spec_data/sony/Sony Xperia XA2 Plus.csv,20220808,20220808
+926,926,15,3,Sony Xperia XZ2 Premium,../spec_data/sony/Sony Xperia XZ2 Premium.csv,20220808,20220808
+927,927,15,3,Sony Xperia XZ2,../spec_data/sony/Sony Xperia XZ2.csv,20220808,20220808
+928,928,15,3,Sony Xperia XZ2 Compact,../spec_data/sony/Sony Xperia XZ2 Compact.csv,20220808,20220808
+929,929,15,3,Sony Xperia L2,../spec_data/sony/Sony Xperia L2.csv,20220808,20220808
+930,930,15,3,Sony Xperia XZ1,../spec_data/sony/Sony Xperia XZ1.csv,20220808,20220808
+931,931,15,3,Sony Xperia XZ1 Compact,../spec_data/sony/Sony Xperia XZ1 Compact.csv,20220808,20220808
+932,932,15,3,Sony Xperia XA1 Plus,../spec_data/sony/Sony Xperia XA1 Plus.csv,20220808,20220808
+933,933,15,3,Sony Xperia XZ Premium,../spec_data/sony/Sony Xperia XZ Premium.csv,20220808,20220808
+934,934,15,3,Sony Xperia XA1 Ultra,../spec_data/sony/Sony Xperia XA1 Ultra.csv,20220808,20220808
+935,935,15,3,Sony Xperia XA2,../spec_data/sony/Sony Xperia XA2.csv,20220808,20220808
+936,936,15,3,Sony Xperia XA1,../spec_data/sony/Sony Xperia XA1.csv,20220808,20220808
+937,937,15,3,Sony Xperia L1,../spec_data/sony/Sony Xperia L1.csv,20220808,20220808
+938,938,15,3,Sony Xperia XZs,../spec_data/sony/Sony Xperia XZs.csv,20220808,20220808
+939,939,15,3,Sony Xperia XA2 Ultra,../spec_data/sony/Sony Xperia XA2 Ultra.csv,20220808,20220808
+940,940,15,3,Sony Xperia X Compact,../spec_data/sony/Sony Xperia X Compact.csv,20220808,20220808
+941,941,15,3,Sony Xperia XZ,../spec_data/sony/Sony Xperia XZ.csv,20220808,20220808
+942,942,15,3,Sony Xperia XA Ultra,../spec_data/sony/Sony Xperia XA Ultra.csv,20220808,20220808
+943,943,15,3,Sony Xperia XA,../spec_data/sony/Sony Xperia XA.csv,20220808,20220808
+944,944,15,3,Sony Xperia X,../spec_data/sony/Sony Xperia X.csv,20220808,20220808
+945,945,15,3,Sony Xperia X Performance,../spec_data/sony/Sony Xperia X Performance.csv,20220808,20220808
+946,946,15,3,Sony Xperia Z5 Compact,../spec_data/sony/Sony Xperia Z5 Compact.csv,20220808,20220808
+947,947,15,3,Sony Xperia Z5,../spec_data/sony/Sony Xperia Z5.csv,20220808,20220808
+948,948,15,3,Sony Xperia Z5  Premium,../spec_data/sony/Sony Xperia Z5  Premium.csv,20220808,20220808
+949,949,15,3,Sony Xperia C5 Ultra Dual,../spec_data/sony/Sony Xperia C5 Ultra Dual.csv,20220808,20220808
+950,950,15,3,Sony Xperia M5 Dual,../spec_data/sony/Sony Xperia M5 Dual.csv,20220808,20220808
+951,951,15,3,Sony Xperia M4 Aqua Dual,../spec_data/sony/Sony Xperia M4 Aqua Dual.csv,20220808,20220808
+952,952,15,3,Sony Xperia C4 Dual,../spec_data/sony/Sony Xperia C4 Dual.csv,20220808,20220808
+953,953,15,3,Sony Xperia Z3+,../spec_data/sony/Sony Xperia Z3+.csv,20220808,20220808
+954,954,15,3,Sony Xperia Z3+ Dual,../spec_data/sony/Sony Xperia Z3+ Dual.csv,20220808,20220808
+955,955,15,3,Sony Xperia E4,../spec_data/sony/Sony Xperia E4.csv,20220808,20220808
+956,956,15,3,Sony Xperia E4g,../spec_data/sony/Sony Xperia E4g.csv,20220808,20220808
+957,957,15,3,Sony Xperia E3,../spec_data/sony/Sony Xperia E3.csv,20220808,20220808
+958,958,15,3,Sony Xperia M2 Auqa,../spec_data/sony/Sony Xperia M2 Auqa.csv,20220808,20220808
+959,959,15,3,Sony Xperia Z3 Compact,../spec_data/sony/Sony Xperia Z3 Compact.csv,20220808,20220808
+960,960,15,3,Sony Xperia Z3,../spec_data/sony/Sony Xperia Z3.csv,20220808,20220808
+961,961,15,3,Sony Xperia C3,../spec_data/sony/Sony Xperia C3.csv,20220808,20220808
+962,962,15,3,Sony Xperia M2,../spec_data/sony/Sony Xperia M2.csv,20220808,20220808
+963,963,15,3,Sony Xperia Z2,../spec_data/sony/Sony Xperia Z2.csv,20220808,20220808
+964,964,15,3,Sony Xperia Z4,../spec_data/sony/Sony Xperia Z4.csv,20220808,20220808
+965,965,15,3,Sony Xperia T2 Ultra 4G,../spec_data/sony/Sony Xperia T2 Ultra 4G.csv,20220808,20220808
+966,966,15,3,Sony Xperia T2 Ultra Dual,../spec_data/sony/Sony Xperia T2 Ultra Dual.csv,20220808,20220808
+967,967,15,3,Sony Xperia T3,../spec_data/sony/Sony Xperia T3.csv,20220808,20220808
+968,968,15,3,Sony Xperia Z1 Compact,../spec_data/sony/Sony Xperia Z1 Compact.csv,20220808,20220808
+969,969,15,3,Sony Xperia Z1,../spec_data/sony/Sony Xperia Z1.csv,20220808,20220808
+970,970,15,3,Sony Xperia Z Ultra 4G,../spec_data/sony/Sony Xperia Z Ultra 4G.csv,20220808,20220808
+971,971,15,3,Sony Xperia Z Ultra 3G,../spec_data/sony/Sony Xperia Z Ultra 3G.csv,20220808,20220808
+972,972,15,3,Sony Xperia M,../spec_data/sony/Sony Xperia M.csv,20220808,20220808
+973,973,15,3,Sony Xperia C,../spec_data/sony/Sony Xperia C.csv,20220808,20220808
+974,974,15,3,Sony Xperia ZR,../spec_data/sony/Sony Xperia ZR.csv,20220808,20220808
+975,975,15,3,Sony Xperia SP,../spec_data/sony/Sony Xperia SP.csv,20220808,20220808
+976,976,15,3,Sony Xperia L,../spec_data/sony/Sony Xperia L.csv,20220808,20220808
+977,977,15,3,Sony Xperia Z,../spec_data/sony/Sony Xperia Z.csv,20220808,20220808
+978,978,15,3,Sony Xperia ZL,../spec_data/sony/Sony Xperia ZL.csv,20220808,20220808
+979,979,15,3,Sony Xperia T,../spec_data/sony/Sony Xperia T.csv,20220808,20220808
+980,980,15,3,Sony Xperia TX,../spec_data/sony/Sony Xperia TX.csv,20220808,20220808
+981,981,15,3,Sony Xperia V,../spec_data/sony/Sony Xperia V.csv,20220808,20220808
+982,982,15,3,Sony Xperia J,../spec_data/sony/Sony Xperia J.csv,20220808,20220808
+983,983,15,3,Sony Xperia SL,../spec_data/sony/Sony Xperia SL.csv,20220808,20220808
+984,984,15,3,Sony XPERIA miro,../spec_data/sony/Sony XPERIA miro.csv,20220808,20220808
+985,985,15,3,Sony XPERIA tipo dual,../spec_data/sony/Sony XPERIA tipo dual.csv,20220808,20220808
+986,986,15,3,Sony Xperia go,../spec_data/sony/Sony Xperia go.csv,20220808,20220808
+987,987,15,3,Sony Xperia acro S,../spec_data/sony/Sony Xperia acro S.csv,20220808,20220808
+988,988,15,3,Sony XPERIA Neo L,../spec_data/sony/Sony XPERIA Neo L.csv,20220808,20220808
+989,989,15,3,Sony Xperia Sola,../spec_data/sony/Sony Xperia Sola.csv,20220808,20220808
+990,990,15,3,Sony Xperia P,../spec_data/sony/Sony Xperia P.csv,20220808,20220808
+991,991,15,3,Sony Xperia U,../spec_data/sony/Sony Xperia U.csv,20220808,20220808
+992,992,15,3,Sony Xperia S,../spec_data/sony/Sony Xperia S.csv,20220808,20220808
+993,993,15,3,Sony Xperia ion LT28i,../spec_data/sony/Sony Xperia ion LT28i.csv,20220808,20220808
+994,994,15,3,Sony Xperia ion LT28h,../spec_data/sony/Sony Xperia ion LT28h.csv,20220808,20220808
+995,995,16,3,uleFone Note 12P,../spec_data/ule/uleFone Note 12P.csv,20220808,20220808
+996,995,16,3,uleFone Note 12P,../spec_data/ule/uleFone Note 12P.csv,20220808,20220808
+997,997,17,3,vivo X80 Pro,../spec_data/vivo/vivo X80 Pro.csv,20220808,20220808
+998,998,17,3,vivo X80,../spec_data/vivo/vivo X80.csv,20220808,20220808
+999,999,17,3,vivo V23 5G,../spec_data/vivo/vivo V23 5G.csv,20220808,20220808
+1000,1000,17,3,vivo X70 Pro,../spec_data/vivo/vivo X70 Pro.csv,20220808,20220808
+1001,1001,17,3,vivo X70,../spec_data/vivo/vivo X70.csv,20220808,20220808
+1002,1002,17,3,vivo X60,../spec_data/vivo/vivo X60.csv,20220808,20220808
+1003,1003,17,3,vivo X60 Pro+,../spec_data/vivo/vivo X60 Pro+.csv,20220808,20220808
+1004,1004,17,3,vivo X60 Pro,../spec_data/vivo/vivo X60 Pro.csv,20220808,20220808
+1005,1005,17,3,vivo X50e,../spec_data/vivo/vivo X50e.csv,20220808,20220808
+1006,1006,17,3,vivo Y12s,../spec_data/vivo/vivo Y12s.csv,20220808,20220808
+1007,1007,17,3,vivo Y20s,../spec_data/vivo/vivo Y20s.csv,20220808,20220808
+1008,1008,17,3,vivo X50 Pro,../spec_data/vivo/vivo X50 Pro.csv,20220808,20220808
+1009,1009,17,3,vivo X50,../spec_data/vivo/vivo X50.csv,20220808,20220808
+1010,1010,17,3,vivo V21 5G,../spec_data/vivo/vivo V21 5G.csv,20220808,20220808
+1011,1011,17,3,vivo Y50,../spec_data/vivo/vivo Y50.csv,20220808,20220808
+1012,1012,17,3,vivo Y15 2020,../spec_data/vivo/vivo Y15 2020.csv,20220808,20220808
+1013,1013,17,3,vivo V17,../spec_data/vivo/vivo V17.csv,20220808,20220808
+1014,1014,17,3,vivo Y19,../spec_data/vivo/vivo Y19.csv,20220808,20220808
+1015,1015,17,3,vivo V17Pro,../spec_data/vivo/vivo V17Pro.csv,20220808,20220808
+1016,1016,17,3,vivo Y12,../spec_data/vivo/vivo Y12.csv,20220808,20220808
+1017,1017,17,3,vivo NEX 3,../spec_data/vivo/vivo NEX 3.csv,20220808,20220808
+1018,1018,17,3,vivo S1,../spec_data/vivo/vivo S1.csv,20220808,20220808
+1019,1019,17,3,vivo Y17,../spec_data/vivo/vivo Y17.csv,20220808,20220808
+1020,1020,17,3,vivo V15Pro,../spec_data/vivo/vivo V15Pro.csv,20220808,20220808
+1021,1021,17,3,vivo NEX Dual Display Edition,../spec_data/vivo/vivo NEX Dual Display Edition.csv,20220808,20220808
+1022,1022,17,3,vivo Y81,../spec_data/vivo/vivo Y81.csv,20220808,20220808
+1023,1023,17,3,vivo V11,../spec_data/vivo/vivo V11.csv,20220808,20220808
+1024,1024,17,3,vivo NEX,../spec_data/vivo/vivo NEX.csv,20220808,20220808
+1025,1025,17,3,vivo X21,../spec_data/vivo/vivo X21.csv,20220808,20220808
+1026,1026,17,3,vivo V7,../spec_data/vivo/vivo V7.csv,20220808,20220808
+1027,1027,17,3,vivo X20 Plus,../spec_data/vivo/vivo X20 Plus.csv,20220808,20220808
+1028,1028,17,3,vivo X20,../spec_data/vivo/vivo X20.csv,20220808,20220808
+1029,997,17,3,vivo X80 Pro,../spec_data/vivo/vivo X80 Pro.csv,20220808,20220808
+1030,998,17,3,vivo X80,../spec_data/vivo/vivo X80.csv,20220808,20220808
+1031,999,17,3,vivo V23 5G,../spec_data/vivo/vivo V23 5G.csv,20220808,20220808
+1032,1000,17,3,vivo X70 Pro,../spec_data/vivo/vivo X70 Pro.csv,20220808,20220808
+1033,1001,17,3,vivo X70,../spec_data/vivo/vivo X70.csv,20220808,20220808
+1034,1002,17,3,vivo X60,../spec_data/vivo/vivo X60.csv,20220808,20220808
+1035,1003,17,3,vivo X60 Pro+,../spec_data/vivo/vivo X60 Pro+.csv,20220808,20220808
+1036,1004,17,3,vivo X60 Pro,../spec_data/vivo/vivo X60 Pro.csv,20220808,20220808
+1037,1005,17,3,vivo X50e,../spec_data/vivo/vivo X50e.csv,20220808,20220808
+1038,1006,17,3,vivo Y12s,../spec_data/vivo/vivo Y12s.csv,20220808,20220808
+1039,1007,17,3,vivo Y20s,../spec_data/vivo/vivo Y20s.csv,20220808,20220808
+1040,1008,17,3,vivo X50 Pro,../spec_data/vivo/vivo X50 Pro.csv,20220808,20220808
+1041,1009,17,3,vivo X50,../spec_data/vivo/vivo X50.csv,20220808,20220808
+1042,1010,17,3,vivo V21 5G,../spec_data/vivo/vivo V21 5G.csv,20220808,20220808
+1043,1011,17,3,vivo Y50,../spec_data/vivo/vivo Y50.csv,20220808,20220808
+1044,1012,17,3,vivo Y15 2020,../spec_data/vivo/vivo Y15 2020.csv,20220808,20220808
+1045,1013,17,3,vivo V17,../spec_data/vivo/vivo V17.csv,20220808,20220808
+1046,1014,17,3,vivo Y19,../spec_data/vivo/vivo Y19.csv,20220808,20220808
+1047,1015,17,3,vivo V17Pro,../spec_data/vivo/vivo V17Pro.csv,20220808,20220808
+1048,1016,17,3,vivo Y12,../spec_data/vivo/vivo Y12.csv,20220808,20220808
+1049,1017,17,3,vivo NEX 3,../spec_data/vivo/vivo NEX 3.csv,20220808,20220808
+1050,1018,17,3,vivo S1,../spec_data/vivo/vivo S1.csv,20220808,20220808
+1051,1019,17,3,vivo Y17,../spec_data/vivo/vivo Y17.csv,20220808,20220808
+1052,1020,17,3,vivo V15Pro,../spec_data/vivo/vivo V15Pro.csv,20220808,20220808
+1053,1021,17,3,vivo NEX Dual Display Edition,../spec_data/vivo/vivo NEX Dual Display Edition.csv,20220808,20220808
+1054,1022,17,3,vivo Y81,../spec_data/vivo/vivo Y81.csv,20220808,20220808
+1055,1023,17,3,vivo V11,../spec_data/vivo/vivo V11.csv,20220808,20220808
+1056,1024,17,3,vivo NEX,../spec_data/vivo/vivo NEX.csv,20220808,20220808
+1057,1025,17,3,vivo X21,../spec_data/vivo/vivo X21.csv,20220808,20220808
+1058,1026,17,3,vivo V7,../spec_data/vivo/vivo V7.csv,20220808,20220808
+1059,1027,17,3,vivo X20 Plus,../spec_data/vivo/vivo X20 Plus.csv,20220808,20220808
+1060,1028,17,3,vivo X20,../spec_data/vivo/vivo X20.csv,20220808,20220808
+1061,1061,18,3,小米 Xiaomi 12 Lite,../spec_data/miui/小米 Xiaomi 12 Lite.csv,20220808,20220808
+1062,1062,18,3,黑鯊 5 Pro,../spec_data/miui/黑鯊 5 Pro.csv,20220808,20220808
+1063,1063,18,3,小米 Poco F4 GT,../spec_data/miui/小米 Poco F4 GT.csv,20220808,20220808
+1064,1064,18,3,小米 Redmi Note 11S 5G,../spec_data/miui/小米 Redmi Note 11S 5G.csv,20220808,20220808
+1065,1065,18,3,小米 Redmi 10C,../spec_data/miui/小米 Redmi 10C.csv,20220808,20220808
+1066,1066,18,3,小米 Redmi Note 11 Pro,../spec_data/miui/小米 Redmi Note 11 Pro.csv,20220808,20220808
+1067,1067,18,3,小米 Redmi Note 11 Pro+ 5G,../spec_data/miui/小米 Redmi Note 11 Pro+ 5G.csv,20220808,20220808
+1068,1068,18,3,小米 Redmi Note 11 Pro 5G,../spec_data/miui/小米 Redmi Note 11 Pro 5G.csv,20220808,20220808
+1069,1069,18,3,小米 Xiaomi 12X,../spec_data/miui/小米 Xiaomi 12X.csv,20220808,20220808
+1070,1070,18,3,小米 Xiaomi 12,../spec_data/miui/小米 Xiaomi 12.csv,20220808,20220808
+1071,1071,18,3,小米 Xiaomi 12 Pro,../spec_data/miui/小米 Xiaomi 12 Pro.csv,20220808,20220808
+1072,1072,18,3,小米 Poco M4 Pro 4G,../spec_data/miui/小米 Poco M4 Pro 4G.csv,20220808,20220808
+1073,1073,18,3,小米 Poco X4 Pro 5G,../spec_data/miui/小米 Poco X4 Pro 5G.csv,20220808,20220808
+1074,1074,18,3,小米 Redmi Note 11S,../spec_data/miui/小米 Redmi Note 11S.csv,20220808,20220808
+1075,1075,18,3,小米 Redmi Note 11,../spec_data/miui/小米 Redmi Note 11.csv,20220808,20220808
+1076,1076,18,3,小米 Poco M4 Pro 5G,../spec_data/miui/小米 Poco M4 Pro 5G.csv,20220808,20220808
+1077,1077,18,3,小米 Redmi 10,../spec_data/miui/小米 Redmi 10.csv,20220808,20220808
+1078,1078,18,3,小米 Mi 11 Lite 5G NE,../spec_data/miui/小米 Mi 11 Lite 5G NE.csv,20220808,20220808
+1079,1079,18,3,小米 Poco X3 GT,../spec_data/miui/小米 Poco X3 GT.csv,20220808,20220808
+1080,1080,18,3,小米 POCO M3 Pro,../spec_data/miui/小米 POCO M3 Pro.csv,20220808,20220808
+1081,1081,18,3,小米 Redmi Note 10 5G,../spec_data/miui/小米 Redmi Note 10 5G.csv,20220808,20220808
+1082,1082,18,3,小米 Redmi 9A,../spec_data/miui/小米 Redmi 9A.csv,20220808,20220808
+1083,1083,18,3,小米 Mi 11i,../spec_data/miui/小米 Mi 11i.csv,20220808,20220808
+1084,1084,18,3,小米 Redmi 9C,../spec_data/miui/小米 Redmi 9C.csv,20220808,20220808
+1085,1085,18,3,小米黑鯊 4,../spec_data/miui/小米黑鯊 4.csv,20220808,20220808
+1086,1086,18,3,小米 Mi 11 Lite 5G,../spec_data/miui/小米 Mi 11 Lite 5G.csv,20220808,20220808
+1087,1087,18,3,小米 Mi 11 Ultra,../spec_data/miui/小米 Mi 11 Ultra.csv,20220808,20220808
+1088,1088,18,3,小米 Redmi Note 10 Pro,../spec_data/miui/小米 Redmi Note 10 Pro.csv,20220808,20220808
+1089,1089,18,3,小米 Redmi Note 10,../spec_data/miui/小米 Redmi Note 10.csv,20220808,20220808
+1090,1090,18,3,小米 11 Lite,../spec_data/miui/小米 11 Lite.csv,20220808,20220808
+1091,1091,18,3,小米 Redmi 9T,../spec_data/miui/小米 Redmi 9T.csv,20220808,20220808
+1092,1092,18,3,小米 Mi 11,../spec_data/miui/小米 Mi 11.csv,20220808,20220808
+1093,1093,18,3,小米 Redmi Note 9T 5G,../spec_data/miui/小米 Redmi Note 9T 5G.csv,20220808,20220808
+1094,1094,18,3,小米 Poco M3,../spec_data/miui/小米 Poco M3.csv,20220808,20220808
+1095,1095,18,3,小米 Mi 10T Pro,../spec_data/miui/小米 Mi 10T Pro.csv,20220808,20220808
+1096,1096,18,3,小米 Mi 10T Lite,../spec_data/miui/小米 Mi 10T Lite.csv,20220808,20220808
+1097,1097,18,3,小米 Mi 10T,../spec_data/miui/小米 Mi 10T.csv,20220808,20220808
+1098,1098,18,3,小米 Xiaomi 11T Pro,../spec_data/miui/小米 Xiaomi 11T Pro.csv,20220808,20220808
+1099,1099,18,3,小米 Xiaomi 11T,../spec_data/miui/小米 Xiaomi 11T.csv,20220808,20220808
+1100,1100,18,3,小米 Poco X3 NFC,../spec_data/miui/小米 Poco X3 NFC.csv,20220808,20220808
+1101,1101,18,3,小米 Redmi 9,../spec_data/miui/小米 Redmi 9.csv,20220808,20220808
+1102,1102,18,3,小米 Poco F2 Pro,../spec_data/miui/小米 Poco F2 Pro.csv,20220808,20220808
+1103,1103,18,3,小米 10 lite 5G,../spec_data/miui/小米 10 lite 5G.csv,20220808,20220808
+1104,1104,18,3,黑鯊 3,../spec_data/miui/黑鯊 3.csv,20220808,20220808
+1105,1105,18,3,黑鯊 3 Pro,../spec_data/miui/黑鯊 3 Pro.csv,20220808,20220808
+1106,1106,18,3,Redmi Note 9 Pro,../spec_data/miui/Redmi Note 9 Pro.csv,20220808,20220808
+1107,1107,18,3,小米 10,../spec_data/miui/小米 10.csv,20220808,20220808
+1108,1108,18,3,小米 10 Pro,../spec_data/miui/小米 10 Pro.csv,20220808,20220808
+1109,1109,18,3,小米 9 lite,../spec_data/miui/小米 9 lite.csv,20220808,20220808
+1110,1110,18,3,Redmi Note 8T,../spec_data/miui/Redmi Note 8T.csv,20220808,20220808
+1111,1111,18,3,小米 Note 10,../spec_data/miui/小米 Note 10.csv,20220808,20220808
+1112,1112,18,3,小米 Note 10 Pro,../spec_data/miui/小米 Note 10 Pro.csv,20220808,20220808
+1113,1113,18,3,小米 Redmi Note 8 Pro,../spec_data/miui/小米 Redmi Note 8 Pro.csv,20220808,20220808
+1114,1114,18,3,黑鯊 2 Pro,../spec_data/miui/黑鯊 2 Pro.csv,20220808,20220808
+1115,1115,18,3,小米 9T Pro,../spec_data/miui/小米 9T Pro.csv,20220808,20220808
+1116,1116,18,3,小米 A3,../spec_data/miui/小米 A3.csv,20220808,20220808
+1117,1117,18,3,小米 9T,../spec_data/miui/小米 9T.csv,20220808,20220808
+1118,1118,18,3,小米 Note 10 Lite,../spec_data/miui/小米 Note 10 Lite.csv,20220808,20220808
+1119,1119,18,3,小米 9,../spec_data/miui/小米 9.csv,20220808,20220808
+1120,1120,18,3,黑鯊 2,../spec_data/miui/黑鯊 2.csv,20220808,20220808
+1121,1121,18,3,紅米 Note 7,../spec_data/miui/紅米 Note 7.csv,20220808,20220808
+1122,1122,18,3,黑鯊手機 1,../spec_data/miui/黑鯊手機 1.csv,20220808,20220808
+1123,1123,18,3,小米 8 Pro,../spec_data/miui/小米 8 Pro.csv,20220808,20220808
+1124,1124,18,3,小米 8 Lite,../spec_data/miui/小米 8 Lite.csv,20220808,20220808
+1125,1125,18,3,小米 MIX 3,../spec_data/miui/小米 MIX 3.csv,20220808,20220808
+1126,1126,18,3,小米 8 屏幕指纹版,../spec_data/miui/小米 8 屏幕指纹版.csv,20220808,20220808
+1127,1127,18,3,小米8 青春版,../spec_data/miui/小米8 青春版.csv,20220808,20220808
+1128,1128,18,3,紅米 Note 6 Pro,../spec_data/miui/紅米 Note 6 Pro.csv,20220808,20220808
+1129,1129,18,3,小米 PocoPhone F1,../spec_data/miui/小米 PocoPhone F1.csv,20220808,20220808
+1130,1130,18,3,小米 A2,../spec_data/miui/小米 A2.csv,20220808,20220808
+1131,1131,18,3,小米 Max 3,../spec_data/miui/小米 Max 3.csv,20220808,20220808
+1132,1132,18,3,紅米 6,../spec_data/miui/紅米 6.csv,20220808,20220808
+1133,1133,18,3,小米 8,../spec_data/miui/小米 8.csv,20220808,20220808
+1134,1134,18,3,小米 8 透明探索版,../spec_data/miui/小米 8 透明探索版.csv,20220808,20220808
+1135,1135,18,3,小米 8SE,../spec_data/miui/小米 8SE.csv,20220808,20220808
+1136,1136,18,3,小米 MIX 2S,../spec_data/miui/小米 MIX 2S.csv,20220808,20220808
+1137,1137,18,3,紅米 5 Plus,../spec_data/miui/紅米 5 Plus.csv,20220808,20220808
+1138,1138,18,3,紅米 5,../spec_data/miui/紅米 5.csv,20220808,20220808
+1139,1139,18,3,小米 MIX 2,../spec_data/miui/小米 MIX 2.csv,20220808,20220808
+1140,1140,18,3,小米 A1,../spec_data/miui/小米 A1.csv,20220808,20220808
+1141,1141,18,3,小米 Max 2,../spec_data/miui/小米 Max 2.csv,20220808,20220808
+1142,1142,18,3,紅米 Note 4X,../spec_data/miui/紅米 Note 4X.csv,20220808,20220808
+1143,1143,18,3,小米 Note 2,../spec_data/miui/小米 Note 2.csv,20220808,20220808
+1144,1144,18,3,小米 MIX,../spec_data/miui/小米 MIX.csv,20220808,20220808
+1145,1145,18,3,紅米 Note 4,../spec_data/miui/紅米 Note 4.csv,20220808,20220808
+1146,1146,18,3,小米 5S,../spec_data/miui/小米 5S.csv,20220808,20220808
+1147,1147,18,3,小米 5S Plus,../spec_data/miui/小米 5S Plus.csv,20220808,20220808
+1148,1148,18,3,小米 6,../spec_data/miui/小米 6.csv,20220808,20220808
+1149,1149,18,3,紅米 Pro,../spec_data/miui/紅米 Pro.csv,20220808,20220808
+1150,1150,18,3,小米 Max,../spec_data/miui/小米 Max.csv,20220808,20220808
+1151,1151,18,3,小米 5,../spec_data/miui/小米 5.csv,20220808,20220808
+1152,1152,18,3,紅米 3,../spec_data/miui/紅米 3.csv,20220808,20220808
+1153,1153,18,3,紅米 Note 3,../spec_data/miui/紅米 Note 3.csv,20220808,20220808
+1154,1154,18,3,紅米 Note 2,../spec_data/miui/紅米 Note 2.csv,20220808,20220808
+1155,1155,18,3,紅米 2 加強版,../spec_data/miui/紅米 2 加強版.csv,20220808,20220808
+1156,1156,18,3,小米 Note,../spec_data/miui/小米 Note.csv,20220808,20220808
+1157,1157,18,3,小米 4i,../spec_data/miui/小米 4i.csv,20220808,20220808
+1158,1158,18,3,紅米 2A,../spec_data/miui/紅米 2A.csv,20220808,20220808
+1159,1159,18,3,紅米 2,../spec_data/miui/紅米 2.csv,20220808,20220808
+1160,1160,18,3,紅米 1S 4G,../spec_data/miui/紅米 1S 4G.csv,20220808,20220808
+1161,1161,18,3,紅米 Note 4G,../spec_data/miui/紅米 Note 4G.csv,20220808,20220808
+1162,1162,18,3,小米 4,../spec_data/miui/小米 4.csv,20220808,20220808
+1163,1163,18,3,紅米 Note,../spec_data/miui/紅米 Note.csv,20220808,20220808
+1164,1164,18,3,紅米 Note 國內版,../spec_data/miui/紅米 Note 國內版.csv,20220808,20220808
+1165,1165,18,3,紅米手機,../spec_data/miui/紅米手機.csv,20220808,20220808
+1166,1166,18,3,紅米 1S,../spec_data/miui/紅米 1S.csv,20220808,20220808
+1167,1167,18,3,小米 3,../spec_data/miui/小米 3.csv,20220808,20220808
+1168,1168,18,3,MIUI 小米 2,../spec_data/miui/MIUI 小米 2.csv,20220808,20220808
+1169,1169,18,3,MIUI 小米 2S,../spec_data/miui/MIUI 小米 2S.csv,20220808,20220808
+1170,1170,18,3,紅米 Note 5,../spec_data/miui/紅米 Note 5.csv,20220808,20220808
+1171,1171,18,3,小米 Poco F4,../spec_data/miui/小米 Poco F4.csv,20220808,20220808
