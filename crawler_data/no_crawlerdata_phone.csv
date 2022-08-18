@@ -1,50 +1,70 @@
-Web	Brand	Phone Name	* 有link，但爬不到content
-PTT	Honor	Honor 50 Lite	
-PTT	Honor	Honor 8s	
-PTT	Honor	Honor X7	
-PTT	Huawei 	Huawei nova9 SE	
-PTT	Huawei 	Huawei P50 Pocket	
-PTT	Microsoft	Lumia 550	
-PTT	Microsoft	Lumia 650 Dual SIM	
-PTT	Motorola	Motorola Edge20 Pro	
-PTT	Motorola	Motorola Moto C Plus	
-PTT	Motorola	Motorola Moto E4 Plus	
-PTT	Nokia	Nokia G20	
-PTT	Nokia	Nokia G21	
-PTT	Nokia	Nokia X10	
-PTT	uleFone	uleFone Note 12P	
-Engadget	Asus	Asus ROG Phone 5S Pro	
-Engadget	Asus	Asus ROG Phone 6 Pro	
-Engadget	Honor	Honor 50 Lite	
-Engadget	Honor	Honor 8s	
-Engadget	Honor	Honor View 20	
-Engadget	Honor	Honor X7	
-Engadget	Honor	Honor X8	
-Engadget	HTC	HTC U12 life	*
-Engadget	HTC	HTC U12+	*
-Engadget	HTC	HTC U19e	*
-Engadget	Microsoft	Lumia 950	
-Engadget	Microsoft	Lumia 950 XL	
-Engadget	Microsoft	Lumia 550	
-Engadget	Microsoft	Lumia 650 Dual SIM	
-Engadget	Motorola	Motorola Moto C Plus	
-Engadget	Motorola	Motorola Moto E4 Plus	
-Engadget	Motorola	Motorola Moto M	
-Engadget	Motorola	Motorola Moto Z2 Play	
-Engadget	Nokia	Nokia XR20	
-Engadget	Nokia	Nokia X10	
-Engadget	Nokia	Nokia G20	
-Engadget	Nokia	Nokia G21	
-Engadget	Nokia	Nokia G50	
-Engadget	Oppo	Oppo A77 5G	
-Engadget	Oppo	Oppo Reno6 5G	
-Engadget	Realme	realme X50 5G	
-Engadget	Samsung	Samsung Galaxy A53 5G	
-Engadget	Samsung	Samsung Galaxy M33 5G	
-Engadget	Sharp	Sharp AQUOS S2	
-Engadget	sony	Sony Xperia 10 IV	*
-Engadget	uleFone	uleFone Note 12P	
-Engadget	miui	小米 Redmi Note 11S 5G	*
-Engadget	miui	小米 Poco F4 GT	
-Engadget	miui	小米 Redmi 10C	
-Engadget	miui	黑鯊 5 Pro	
+"Web			*   link A        content"	Brand	Phone Name		*   means which have link but craw no contents
+"PTT		"	Honor	Honor 50 Lite		
+PTT	Honor	Honor 8s		
+"PTT	"	Honor	Honor X7		
+"PTT	 	"	Huawei	Huawei nova9 SE		
+PTT	Huawei	Huawei P50 Pocket		
+"PTT		"	Microsoft	Lumia 550		
+PTT	Microsoft	Lumia 650 Dual SIM		
+"PTT		"	Motorola	Motorola Edge20 Pro		
+"PTT	"	Motorola	Motorola Moto C Plus		
+"PTT	"	Motorola	Motorola Moto E4 Plus		
+"PTT	"	Nokia	Nokia G20		
+PTT	Nokia	Nokia G21		
+PTT	Nokia	Nokia X10		
+PTT	uleFone	uleFone Note 12P		
+Engadget	Asus	Asus ROG Phone 5S Pro		
+Engadget	Asus	Asus ROG Phone 6 Pro		
+Engadget	Honor	Honor 50 Lite		
+Engadget	Honor	Honor 8s		
+Engadget	Honor	Honor View 20		
+Engadget	Honor	Honor X7		
+Engadget	Honor	Honor X8		
+Engadget	HTC	HTC U12 life	*	
+Engadget	HTC	HTC U12+	*	
+Engadget	HTC	HTC U19e	*	
+Engadget	Microsoft	Lumia 950		
+Engadget	Microsoft	Lumia 950 XL		
+Engadget	Microsoft	Lumia 550		
+Engadget	Microsoft	Lumia 650 Dual SIM		
+Engadget	Motorola	Motorola Moto C Plus		
+Engadget	Motorola	Motorola Moto E4 Plus		
+Engadget	Motorola	Motorola Moto M		
+Engadget	Motorola	Motorola Moto Z2 Play		
+Engadget	Nokia	Nokia XR20		
+Engadget	Nokia	Nokia X10		
+Engadget	Nokia	Nokia G20		
+Engadget	Nokia	Nokia G21		
+Engadget	Nokia	Nokia G50		
+Engadget	Oppo	Oppo A77 5G		
+Engadget	Oppo	Oppo Reno6 5G		
+Engadget	Realme	realme X50 5G		
+Engadget	Samsung	Samsung Galaxy A53 5G		
+Engadget	Samsung	Samsung Galaxy M33 5G		
+Engadget	Sharp	Sharp AQUOS S2		
+Engadget	sony	Sony Xperia 10 IV	*	
+Engadget	uleFone	uleFone Note 12P		
+Engadget	miui	 p   Redmi Note 11S 5G	*	
+Engadget	miui	 p   Poco F4 GT		
+Engadget	miui	 p   Redmi 10C		
+Engadget	miui	   T 5 Pro		
+Mobile01	"Honor	"	Honor 50 Lite		
+Mobile01	"Honor		"	Honor 8s		
+Mobile01	"Honor		"	Honor View 20		
+Mobile01	"Honor	"	Honor X7		
+Mobile01	"Honor		"	Honor X8		
+Mobile01	HTC	U12+		
+Mobile01	Huawei 	nova 9		
+Mobile01	Huawei 	nova 9 SE		
+Mobile01	Microsoft	Lumia 650 Dual SIM		
+Mobile01	miui	小米 Redmi Note 11S 5G		
+Mobile01	miui	小米 Xiaomi 12 Lite		
+Mobile01	Motorola	Motorola Moto C Plus		
+Mobile01	Motorola	Motorola Moto E4 Plus		
+Mobile01	Motorola	Motorola Moto M		
+Mobile01	Nokia	Nokia XR20		
+Mobile01	Nokia	Nokia G20		
+Mobile01	Oppo	Oppo A77 5G		
+Mobile01	OnePlus	OnePlus 10 Pro		
+Mobile01	Samsung	Samsung Galaxy S22+		
+Mobile01	uleFone	uleFone Note 12P		
