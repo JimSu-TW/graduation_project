@@ -4,7 +4,7 @@ import { Navbar, Nav, NavDropdown, Form, FormControl, Button, Container } from "
 
 export default function NavbarMenu() {
     return (
-        <Navbar collapseOnSelect bg="dark" expand="lg"  variant="dark" sticky="top" >
+        <Navbar collapseOnSelect bg="dark" expand="lg" variant="dark" sticky="top" >
             <Container>
                 <Navbar.Brand href="#home">logo</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
