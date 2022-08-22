@@ -1,5 +1,5 @@
 /******* Bootstrap Theming ********/
-/*!
+/*
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
@@ -710,6 +710,7 @@ body,div,ul{margin:0px;padding:0px;}
   padding-left: 15px;
 }
 
+
 .col {
   flex-basis: 0;
   flex-grow: 1;
@@ -925,6 +926,10 @@ body,div,ul{margin:0px;padding:0px;}
   .row-cols-sm-1 > * {
     flex: 0 0 100%;
     max-width: 100%;
+  }
+  .row-cols-sm-layer3 > * {
+    flex: 0 0 95%;
+    max-width: 95%;
   }
   .row-cols-sm-2 > * {
     flex: 0 0 50%;
@@ -1616,7 +1621,7 @@ body,div,ul{margin:0px;padding:0px;}
 
 .table-bordered th,
 .table-bordered td {
-  border: 1px solid #EDF1FF;
+  border: 1px solid #e5e5e8;
 }
 
 .table-bordered thead th,
@@ -9706,4 +9711,22 @@ a.text-dark:hover, a.text-dark:focus {
   flex-direction: column;
   align-items: center;
   font-weight: bolder;
+}
+.brand_banner {
+    min-height: 120px;
+}
+.key-text-size {
+    font-size: 25px;
+}
+.key-text-ul-style {
+    list-style-type: none;
+    font-size: 20px;
+}
+.img_banner {
+    max-width: 100%;
+    height: auto;
+    padding-top: 0%;
+}
+.img_source {
+    width: 20px;
 }
