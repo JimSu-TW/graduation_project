@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react';
 import './style.css';
 import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
@@ -7,8 +8,37 @@ import engadget from "./images/sourcepic/engadget.jpg";
 import mobile01 from "./images/sourcepic/mobile01.jpg";
 import ptt from "./images/sourcepic/ptt.png";
 
+const API_Post = "http://127.0.0.1:5000/api/phonepost";
+
 function Layout(){
-    
+    // 宣告hook變數
+    const [post, setPost] = useState([]);
+    // 連結api上的json取產品名稱
+    useEffect(() => {
+        fetch(API_Post)
+            .then(res =>res.json())
+            .then(post => setPost(post))
+            .catch(console.error);
+    }, []);
+
+    console.log(post)
+
+    // 一次處理多項留言
+    const PostItems = post.map((post) =>
+        <div className="tab-pane show" id="tab-pane-3">
+            <div className="row">
+                <ul className="col-md-12 post-text-ul-style">
+                    <li className="media my-1">
+                        <img src={mobile01} alt="ptt" className="img_source"></img>
+                        <div key={post.post_id}>
+                            <a href={post.link}>{post.title}</a><small><i> {post.date}</i></small>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    );
+
     return (
 
         <div className="container-fluid py-3">
@@ -37,7 +67,7 @@ function Layout(){
                                     <div className="tab-pane show active" id="tab-pane-1">
                                         <div className="attributesArea">
                                             <div>
-                                                <table id="attributesTable" cellspacing="0" cellpadding="5" width="100%" border="1">
+                                                <table id="attributesTable" cellSpacing="0" cellPadding="5" width="100%" border="1">
                                                 <tbody>
                                                     <tr>
                                                         <th><p>品牌</p></th>
@@ -83,8 +113,6 @@ function Layout(){
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <div className="col-auto">
-                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -103,9 +131,6 @@ function Layout(){
                                                                         <li>夜拍清晰</li>
                                                                     </ul>
                                                                 </div>
-                                                            </div>
-                                                            <div className="col-auto">
-                                                                <i className="fas fa-battery-half fa-2x text-gray-300"></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -126,9 +151,6 @@ function Layout(){
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <div className="col-auto">
-                                                                <i className="fas fa-clipboard-list fa-2x text-gray-300"></i>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -139,37 +161,11 @@ function Layout(){
                                 <Tab eventKey="tab-pane-3" title="產品評論">
                                     <div className="tab-pane show" id="tab-pane-3">
                                         <div className="row">
-                                            <div className="col-md-12">
-                                                <div className="media my-1">
-                                                    <div className="media-body">
-                                                        <img src={ptt} alt="ptt" className="img_source"></img>
-                                                        <p>[問題] iPhone SE3 前鏡頭異常<small><i> 2022/06/27</i></small></p>
-                                                    </div>                             
-                                                </div>
-                                                <div className="media my-1">
-                                                    <div className="media-body">
-                                                        <img src={ptt} alt="ptt" className="img_source"></img>
-                                                        <p>[討論] iPhone SE3好用<small><i> 2022/06/20</i></small></p>
-                                                    </div>                               
-                                                </div>
-                                                <div className="media my-1">
-                                                    <div className="media-body">
-                                                        <img src={mobile01} alt="mobile01" className="img_source"></img>
-                                                        <p>iphone se3自動重啟panic full - Mobile01<small><i> 2022-05-12</i></small></p>
-                                                    </div>                                
-                                                </div>
-                                                <div className="media my-1">
-                                                    <div className="media-body">
-                                                        <img src={ptt} alt="ptt" className="img_source"></img>
-                                                        <p>[問題] 最近官網新購入iPhone SE3的版本號為何？<small><i> 2022/05/08</i></small></p>
-                                                    </div>                                
-                                                </div>
-                                            </div>
+                                            {PostItems}
                                         </div>
                                     </div>
                                 </Tab>
                             </Tabs>
-
                         </div>
                     </div>
                 </div>
