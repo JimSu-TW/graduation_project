@@ -1,0 +1,1 @@
+取名邏輯：word_similarity_(特徵)_(product_id)
