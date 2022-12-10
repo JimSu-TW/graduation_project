@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone SE 3",
+        "img":"/images/popularph/iPhone SE 3.jpg",
+        "category":"64GB"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 13 mini",
+        "image":"/images/popularph/iPhone 13 mini.jpg",
+        "category":"256GB"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 13",
+        "image":"/images/popularph/iPhone 13.jpg",
+        "category":"256GB"
+    },
+    {
+        "id": 4,
+        "name": "iPhone 13 Pro",
+        "image":"/images/popularph/iPhone 13 Pro.jpg",
+        "category":"64GB"
+    },
+    {
+        "id": 5,
+        "name": "iPhone 13 Pro Max",
+        "img":"/images/popularph/iPhone 13 Pro Max.jpg",
+        "category":"64GB"
+    },
+    {
+        "id": 6,
+        "name": "iPhone 12 mini",
+        "img":"/images/popularph/iPhone 12 mini.jpg",
+        "category":"128GB"
+    }
+]
